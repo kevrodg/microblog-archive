@@ -1,0 +1,1765 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Kev Rodgers",
+	"icon": "https://micro.blog/kevrodg/avatar.jpg",
+	"home_page_url": "https://www.kevrodg.net/",
+	"feed_url": "https://www.kevrodg.net/feed.json",
+	"items": [
+		
+			{
+				"id": "http://kevrodg.micro.blog/2025/06/29/i-completed-the-day-odd.html",
+				
+				"content_html": "<p>I completed the <a href=\"https://www.drumeo.com/drumshop/30-day-odd-time\">30-Day Odd Time course with Nic Collins</a>. Now I can play in 5/4, 7/8, and 9/8.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I completed the [30-Day Odd Time course with Nic Collins](https://www.drumeo.com/drumshop/30-day-odd-time). Now I can play in 5/4, 7/8, and 9/8.\n\n<img src=\"uploads/2025/f874ed5f18.jpg\" width=\"540\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-29T15:41:49-04:00",
+				"url": "https://www.kevrodg.net/2025/06/29/i-completed-the-day-odd.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/06/19/theres-a-raycast-extension-for.html",
+				
+				"content_html": "<p>There’s a <a href=\"https://www.raycast.com/tynanpurdy/microblog\">Raycast extension</a> for posting to <a href=\"https://micro.blog\">Micro.blog</a>.</p>\n",
+				"content_text": "There’s a [Raycast extension](https://www.raycast.com/tynanpurdy/microblog) for posting to [Micro.blog](https://micro.blog).\n",
+				"date_published": "2025-06-19T08:17:15-04:00",
+				"url": "https://www.kevrodg.net/2025/06/19/theres-a-raycast-extension-for.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/06/10/jim-never-has-a-second.html",
+				
+				"content_html": "<p>“Jim never has a second cup of coffee at home.” 🎥</p>\n",
+				"content_text": "“Jim never has a second cup of coffee at home.” 🎥\n",
+				"date_published": "2025-06-10T16:27:51-04:00",
+				"url": "https://www.kevrodg.net/2025/06/10/jim-never-has-a-second.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/05/30/morries-wigs-dont-come-off.html",
+				
+				"content_html": "<p>“Morrie’s Wigs don’t come off… even underwater.” 🎥</p>\n",
+				"content_text": "“Morrie’s Wigs don’t come off… even underwater.” 🎥\n",
+				"date_published": "2025-05-30T12:39:45-04:00",
+				"url": "https://www.kevrodg.net/2025/05/30/morries-wigs-dont-come-off.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/05/29/shit-we-forgot-to-practice.html",
+				
+				"content_html": "<p>“Shit, we forgot to practice.” 🎥</p>\n",
+				"content_text": "“Shit, we forgot to practice.” 🎥\n",
+				"date_published": "2025-05-29T09:03:09-04:00",
+				"url": "https://www.kevrodg.net/2025/05/29/shit-we-forgot-to-practice.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/05/18/you-two-cant-even-take.html",
+				
+				"content_html": "<p>“You two… can&rsquo;t even take a shower… with a beautiful woman… without wearing your jeans!” 🎥</p>\n",
+				"content_text": "“You two… can't even take a shower… with a beautiful woman… without wearing your jeans!” 🎥\n",
+				"date_published": "2025-05-18T09:25:00-04:00",
+				"url": "https://www.kevrodg.net/2025/05/18/you-two-cant-even-take.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/05/14/sold-out-good-thing-i.html",
+				
+				"content_html": "<p><a href=\"https://www.clutchmerch.com/collections/music/products/clutch\">Sold out</a>! Good thing I ordered mine yesterday. 🎵</p>\n",
+				"content_text": "[Sold out](https://www.clutchmerch.com/collections/music/products/clutch)! Good thing I ordered mine yesterday. 🎵\n",
+				"date_published": "2025-05-14T17:17:18-04:00",
+				"url": "https://www.kevrodg.net/2025/05/14/sold-out-good-thing-i.html",
+				"tags": ["Music","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/05/14/i-feel-sorry-for-you.html",
+				
+				"content_html": "<p>“I feel sorry for you. What it must feel like to wanna pull the switch.” 🎥</p>\n",
+				"content_text": "“I feel sorry for you. What it must feel like to wanna pull the switch.” 🎥\n",
+				"date_published": "2025-05-14T17:10:43-04:00",
+				"url": "https://www.kevrodg.net/2025/05/14/i-feel-sorry-for-you.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/05/09/today-i-learned-shift-option.html",
+				
+				"content_html": "<p>Today I learned, <!-- raw HTML omitted -->shift<!-- raw HTML omitted --> + <!-- raw HTML omitted -->option<!-- raw HTML omitted --> + <!-- raw HTML omitted -->?<!-- raw HTML omitted --> makes a ¿.</p>\n",
+				"content_text": "Today I learned, <kbd>shift</kbd> + <kbd>option</kbd> + <kbd>?</kbd> makes a ¿.\n",
+				"date_published": "2025-05-09T16:12:51-04:00",
+				"url": "https://www.kevrodg.net/2025/05/09/today-i-learned-shift-option.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/05/08/thats-none.html",
+				
+				"content_html": "<p>“That’s none.” 🎥</p>\n",
+				"content_text": "“That’s none.” 🎥\n",
+				"date_published": "2025-05-08T06:39:58-04:00",
+				"url": "https://www.kevrodg.net/2025/05/08/thats-none.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/05/01/strip-you-little-shit-before.html",
+				
+				"content_html": "<p>“Strip you little shit, before I tear you a <em>new</em> asshole!” 🎥</p>\n",
+				"content_text": "“Strip you little shit, before I tear you a _new_ asshole!” 🎥\n",
+				"date_published": "2025-05-01T07:19:57-04:00",
+				"url": "https://www.kevrodg.net/2025/05/01/strip-you-little-shit-before.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/04/25/ha-ha-ha-ha-ha.html",
+				
+				"content_html": "<p>“Ha ha ha ha ha ha. You dumb bastard. It’s not a schooner, it’s a sailboat.” 🎥</p>\n",
+				"content_text": "“Ha ha ha ha ha ha. You dumb bastard. It’s not a schooner, it’s a sailboat.” 🎥\n",
+				"date_published": "2025-04-25T21:27:45-04:00",
+				"url": "https://www.kevrodg.net/2025/04/25/ha-ha-ha-ha-ha.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/04/22/ah-there-voice-come-from.html",
+				
+				"content_html": "<p>“Ah, there. Voice come from cow on wall.” 🎥</p>\n",
+				"content_text": "“Ah, there. Voice come from cow on wall.” 🎥\n",
+				"date_published": "2025-04-22T18:07:32-04:00",
+				"url": "https://www.kevrodg.net/2025/04/22/ah-there-voice-come-from.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/04/15/what-a-shame.html",
+				"title": "What a Shame",
+				"content_html": "<p>I got my first insult after a <a href=\"https://supercell.com/en/games/brawlstars/\">Brawl Stars</a> game the other night. My critic sent me a friend request followed by a chat message written in Spanish. I could understand some of what was written, especially the part about being called a noob. I agreed. Here’s a transcript and a screenshot of the exchange.</p>\n<blockquote>\n<p><strong>Gabo:</strong> <em>que mal juegas. Todo un noob</em><br>\nYou play so badly. You&rsquo;re such a noob.</p>\n<p><strong>Me:</strong> <em>Sí.</em><br>\nYes.</p>\n<p><strong>Gabo:</strong> <em>Si no sabes jugarlo mejor no lo instales que vergüenza 👎🏼</em><br>\nIf you don&rsquo;t know how to play it, better not install it, what a shame. 👎🏼</p>\n</blockquote>\n<p><img src=\"https://www.kevrodg.net/uploads/2025/brawl-stars-insult.jpeg\" alt=\"Auto-generated description: Two players in a game chat exchange comments, with player Gabo criticizing and leaving the game.\"></p>\n",
+				"content_text": "I got my first insult after a [Brawl Stars](https://supercell.com/en/games/brawlstars/) game the other night. My critic sent me a friend request followed by a chat message written in Spanish. I could understand some of what was written, especially the part about being called a noob. I agreed. Here’s a transcript and a screenshot of the exchange.\n\n> **Gabo:** *que mal juegas. Todo un noob*  \n> You play so badly. You're such a noob.  \n> \n> **Me:** *Sí.*  \n> Yes.\n> \n> **Gabo:** *Si no sabes jugarlo mejor no lo instales que vergüenza 👎🏼*  \n> If you don't know how to play it, better not install it, what a shame. 👎🏼  \n\n![Auto-generated description: Two players in a game chat exchange comments, with player Gabo criticizing and leaving the game.](https://www.kevrodg.net/uploads/2025/brawl-stars-insult.jpeg)\n",
+				"date_published": "2025-04-15T17:24:12-04:00",
+				"url": "https://www.kevrodg.net/2025/04/15/what-a-shame.html",
+				"tags": ["Macro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/04/03/mortal-kombat-on-the-sega.html",
+				
+				"content_html": "<p>“Mortal Kombat on the Sega Genesis is the best video game ever.” 🎥</p>\n",
+				"content_text": "“Mortal Kombat on the Sega Genesis is the best video game ever.” 🎥\n",
+				"date_published": "2025-04-03T12:12:47-04:00",
+				"url": "https://www.kevrodg.net/2025/04/03/mortal-kombat-on-the-sega.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/04/01/and-another-thing-just-wait.html",
+				
+				"content_html": "<p>“And another thing, just wait ’til next year!” 🎥</p>\n",
+				"content_text": "“And another thing, just wait ’til next year!” 🎥\n",
+				"date_published": "2025-04-01T14:15:11-04:00",
+				"url": "https://www.kevrodg.net/2025/04/01/and-another-thing-just-wait.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/04/01/woke-up-in-a-great.html",
+				
+				"content_html": "<p>“Woke up in a great mood. I don’t know what the hell happened.” 🎥</p>\n",
+				"content_text": "“Woke up in a great mood. I don’t know what the hell happened.” 🎥\n",
+				"date_published": "2025-04-01T07:00:34-04:00",
+				"url": "https://www.kevrodg.net/2025/04/01/woke-up-in-a-great.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/03/25/learning-about-cuba-having-some.html",
+				
+				"content_html": "<p>“Learning about Cuba, having some food.” 🎥</p>\n",
+				"content_text": "“Learning about Cuba, having some food.” 🎥\n",
+				"date_published": "2025-03-25T10:00:22-04:00",
+				"url": "https://www.kevrodg.net/2025/03/25/learning-about-cuba-having-some.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/03/23/i-d-printed-a-wall.html",
+				
+				"content_html": "<p>I <a href=\"https://www.printables.com/model/224259-now-playing-vinyl-record-stand\">printed this stand</a> to showcase which album is currently playing on the turntable. Featured here is <a href=\"https://www.clutchmerch.com/products/book-of-bad-decisions-double-lp\"><em>Book of Bad Decisions</em> by Clutch</a>. 🎵\n<img src=\"https://www.kevrodg.net/uploads/2025/now-playing.jpeg\" alt=\"A turntable with headphones rests on a table, next to an album cover featuring an eagle with the text NOW PLAYING underneath.\"></p>\n",
+				"content_text": "I [printed this stand](https://www.printables.com/model/224259-now-playing-vinyl-record-stand) to showcase which album is currently playing on the turntable. Featured here is [_Book of Bad Decisions_ by Clutch](https://www.clutchmerch.com/products/book-of-bad-decisions-double-lp). 🎵\n![A turntable with headphones rests on a table, next to an album cover featuring an eagle with the text NOW PLAYING underneath.](https://www.kevrodg.net/uploads/2025/now-playing.jpeg)\n",
+				"date_published": "2025-03-23T09:32:15-04:00",
+				"url": "https://www.kevrodg.net/2025/03/23/i-d-printed-a-wall.html",
+				"tags": ["Music","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/03/21/theres-no-basement-at-the.html",
+				
+				"content_html": "<p>“There’s no basement at The Alamo!” 🎥</p>\n",
+				"content_text": "“There’s no basement at The Alamo!” 🎥\n",
+				"date_published": "2025-03-21T14:29:49-04:00",
+				"url": "https://www.kevrodg.net/2025/03/21/theres-no-basement-at-the.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/03/20/today-i-learned-how-to.html",
+				
+				"content_html": "<p>Today I learned how to play a 4:3 polyrhythm. 🥁</p>\n",
+				"content_text": "Today I learned how to play a 4:3 polyrhythm. 🥁\n",
+				"date_published": "2025-03-20T13:03:52-04:00",
+				"url": "https://www.kevrodg.net/2025/03/20/today-i-learned-how-to.html",
+				"tags": ["Music","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/03/17/yeah-but-im-sayin-that.html",
+				
+				"content_html": "<p>“Yeah, but I’m sayin’ that TruCoat®, you don’t get it, you get oxidation problems. It’ll cost you a heck of a lot more than $500.” 🎥</p>\n",
+				"content_text": "“Yeah, but I’m sayin’ that TruCoat®, you don’t get it, you get oxidation problems. It’ll cost you a heck of a lot more than $500.” 🎥\n",
+				"date_published": "2025-03-17T14:26:11-04:00",
+				"url": "https://www.kevrodg.net/2025/03/17/yeah-but-im-sayin-that.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/03/10/oh-well-how-do-you.html",
+				
+				"content_html": "<p>“Oh, well, how do you measure yourself with other golfers?” 🎥</p>\n",
+				"content_text": "“Oh, well, how do you measure yourself with other golfers?” 🎥\n",
+				"date_published": "2025-03-10T10:30:34-04:00",
+				"url": "https://www.kevrodg.net/2025/03/10/oh-well-how-do-you.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/03/07/i-need-to-filter-out.html",
+				
+				"content_html": "<p>I need to filter out lines from a file that contain any of the following: 1/49, 1/50, 1/51, 1/52, 2/49, 2/50, 2/51, 2/52, 3/49, 3/50, 3/51, 3/52, 4/49, 4/50, 4/51, or 4/52. Here&rsquo;s a regex that will match them.</p>\n<p><code>.*(1|2|3|4|5)/(49|50|51|52).*</code></p>\n",
+				"content_text": "I need to filter out lines from a file that contain any of the following: 1/49, 1/50, 1/51, 1/52, 2/49, 2/50, 2/51, 2/52, 3/49, 3/50, 3/51, 3/52, 4/49, 4/50, 4/51, or 4/52. Here's a regex that will match them.\r\n\r\n`.*(1|2|3|4|5)/(49|50|51|52).*`\n",
+				"date_published": "2025-03-07T10:39:37-04:00",
+				"url": "https://www.kevrodg.net/2025/03/07/i-need-to-filter-out.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/02/27/i-want-me-a-prs.html",
+				
+				"content_html": "<p>“I want me a PRS guitar, with the dragon inlay.” 🎥</p>\n",
+				"content_text": "“I want me a PRS guitar, with the dragon inlay.” 🎥\n",
+				"date_published": "2025-02-27T13:16:38-04:00",
+				"url": "https://www.kevrodg.net/2025/02/27/i-want-me-a-prs.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/02/20/you-uhm-wanna-come-in.html",
+				
+				"content_html": "<p>“You, uhm, wanna come in ‘n’ sing some blues?” 🎥</p>\n",
+				"content_text": "“You, uhm, wanna come in ‘n’ sing some blues?” 🎥\n",
+				"date_published": "2025-02-20T13:43:59-04:00",
+				"url": "https://www.kevrodg.net/2025/02/20/you-uhm-wanna-come-in.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/02/11/i-used-to-have-an.html",
+				"title": "A Script to Append Work Activity to a Log File",
+				"content_html": "<p>I used to have an AppleScript that would prompt me for some text and then append that to a file with a date and time stamp. The purpose of this script was to allow me to quickly log stuff that I was working on throughout the day. I launched the script with a keyboard mapping using <a href=\"https://redsweater.com/fastscripts/\">FastScripts</a>. I think I had it set to ⇧ + ⌘ + L.</p>\n<p><del>At some point over the years and a couple of new computers later, I lost the script</del> I found a copy of the script and recently became interested in adding this back into my workflow. Before I found it though, I used <a href=\"https://help.kagi.com/kagi/ai/quick-answer.html\">Kagi&rsquo;s Quick Answer</a> feature to cobble together a new version of the script.</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-applescript\" data-lang=\"applescript\"><span style=\"color:#66d9ef\">set</span> filePath <span style=\"color:#66d9ef\">to</span> <span style=\"color:#e6db74\">&#34;Macintosh HD:Users:kevin:Documents:log.txt&#34;</span>\n<span style=\"color:#66d9ef\">set</span> isoDate <span style=\"color:#66d9ef\">to</span> do shell script <span style=\"color:#e6db74\">&#34;date +&#39;%Y-%m-%d %I:%M %p&#39;&#34;</span>\n\n<span style=\"color:#66d9ef\">try</span>\n  <span style=\"color:#75715e\">-- Try to open the file for access</span>\n  <span style=\"color:#66d9ef\">set</span> fileRef <span style=\"color:#66d9ef\">to</span> open for access file filePath <span style=\"color:#66d9ef\">with</span> write permission\n  <span style=\"color:#75715e\">-- If successful, do something with the file</span>\n  <span style=\"color:#66d9ef\">set</span> userInput <span style=\"color:#66d9ef\">to</span> <span style=\"color:#e6db74\">&#34;&#34;</span>\n  <span style=\"color:#66d9ef\">repeat</span> <span style=\"color:#66d9ef\">until</span> userInput <span style=\"color:#f92672\">is not</span> <span style=\"color:#e6db74\">&#34;&#34;</span>\n    <span style=\"color:#66d9ef\">set</span> userInput <span style=\"color:#66d9ef\">to</span> <span style=\"color:#a6e22e\">text returned</span> <span style=\"color:#66d9ef\">of</span> (display dialog <span style=\"color:#e6db74\">&#34;What did you do?&#34;</span> buttons {<span style=\"color:#e6db74\">&#34;Cancel&#34;</span>, <span style=\"color:#e6db74\">&#34;OK&#34;</span>} default button <span style=\"color:#ae81ff\">2</span> default answer <span style=\"color:#e6db74\">&#34;&#34;</span>)\n  <span style=\"color:#66d9ef\">end</span> <span style=\"color:#66d9ef\">repeat</span>\n  write <span style=\"color:#66d9ef\">return</span> <span style=\"color:#f92672\">&amp;</span> <span style=\"color:#66d9ef\">return</span> <span style=\"color:#f92672\">&amp;</span> <span style=\"color:#e6db74\">&#34;--- &#34;</span> <span style=\"color:#f92672\">&amp;</span> <span style=\"color:#66d9ef\">return</span> <span style=\"color:#f92672\">&amp;</span> isoDate <span style=\"color:#f92672\">&amp;</span> <span style=\"color:#66d9ef\">return</span> <span style=\"color:#f92672\">&amp;</span> <span style=\"color:#66d9ef\">return</span> <span style=\"color:#f92672\">&amp;</span> (ASCII character <span style=\"color:#ae81ff\">9</span>) <span style=\"color:#f92672\">&amp;</span> userInput <span style=\"color:#66d9ef\">to</span> fileRef starting at eof\n<span style=\"color:#66d9ef\">on</span> <span style=\"color:#66d9ef\">error</span> errMsg number errNum\n  <span style=\"color:#66d9ef\">if</span> errNum <span style=\"color:#f92672\">=</span> <span style=\"color:#f92672\">-</span><span style=\"color:#ae81ff\">49</span> <span style=\"color:#66d9ef\">then</span>\n    <span style=\"color:#75715e\">-- If the error is that the file is already open</span>\n    close access file filePath <span style=\"color:#75715e\">-- Close the existing access</span>\n    <span style=\"color:#75715e\">-- Now reopen the file</span>\n    <span style=\"color:#66d9ef\">set</span> fileRef <span style=\"color:#66d9ef\">to</span> open for access file filePath <span style=\"color:#66d9ef\">with</span> write permission\n    <span style=\"color:#66d9ef\">set</span> userInput <span style=\"color:#66d9ef\">to</span> <span style=\"color:#e6db74\">&#34;&#34;</span>\n    <span style=\"color:#66d9ef\">repeat</span> <span style=\"color:#66d9ef\">until</span> userInput <span style=\"color:#f92672\">is not</span> <span style=\"color:#e6db74\">&#34;&#34;</span>\n      <span style=\"color:#66d9ef\">set</span> userInput <span style=\"color:#66d9ef\">to</span> <span style=\"color:#a6e22e\">text returned</span> <span style=\"color:#66d9ef\">of</span> (display dialog <span style=\"color:#e6db74\">&#34;What did you do?&#34;</span> buttons {<span style=\"color:#e6db74\">&#34;Cancel&#34;</span>, <span style=\"color:#e6db74\">&#34;OK&#34;</span>} default button <span style=\"color:#ae81ff\">2</span> default answer <span style=\"color:#e6db74\">&#34;&#34;</span>)\n      write <span style=\"color:#66d9ef\">return</span> <span style=\"color:#f92672\">&amp;</span> <span style=\"color:#66d9ef\">return</span> <span style=\"color:#f92672\">&amp;</span> <span style=\"color:#e6db74\">&#34;--- &#34;</span> <span style=\"color:#f92672\">&amp;</span> <span style=\"color:#66d9ef\">return</span> <span style=\"color:#f92672\">&amp;</span> isoDate <span style=\"color:#f92672\">&amp;</span> <span style=\"color:#66d9ef\">return</span> <span style=\"color:#f92672\">&amp;</span> <span style=\"color:#66d9ef\">return</span> <span style=\"color:#f92672\">&amp;</span> (ASCII character <span style=\"color:#ae81ff\">9</span>) <span style=\"color:#f92672\">&amp;</span> userInput <span style=\"color:#66d9ef\">to</span> fileRef starting at eof\n    <span style=\"color:#66d9ef\">end</span> <span style=\"color:#66d9ef\">repeat</span>\n  <span style=\"color:#66d9ef\">else</span>\n    <span style=\"color:#75715e\">-- Handle other errors</span>\n    display dialog <span style=\"color:#e6db74\">&#34;An error occurred: &#34;</span> <span style=\"color:#f92672\">&amp;</span> errMsg\n  <span style=\"color:#66d9ef\">end</span> <span style=\"color:#66d9ef\">if</span>\n<span style=\"color:#66d9ef\">end</span> <span style=\"color:#66d9ef\">try</span>\n\n<span style=\"color:#75715e\">-- Close the file when done</span>\nclose access fileRef\n</code></pre></div><p>This is an improvement over my original script as it has better error handling and checks if the file is already open. I&rsquo;m using <a href=\"https://www.raycast.com\">Raycast</a> as my launcher now and I&rsquo;ve set it up to run this script by pressing the <a href=\"https://manual.raycast.com/hyperkey\">Hyper Key</a><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> + L. I&rsquo;m hoping to start using this regularly so I can have a good record of my work activites.</p>\n<p>I still have the original log file that has entries going back 14 years, and it&rsquo;s interesting to see what I was working on back then.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>I mapped mine to the Caps Lock key.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "I used to have an AppleScript that would prompt me for some text and then append that to a file with a date and time stamp. The purpose of this script was to allow me to quickly log stuff that I was working on throughout the day. I launched the script with a keyboard mapping using [FastScripts](https://redsweater.com/fastscripts/). I think I had it set to ⇧ + ⌘ + L.\n\n~~At some point over the years and a couple of new computers later, I lost the script~~ I found a copy of the script and recently became interested in adding this back into my workflow. Before I found it though, I used [Kagi's Quick Answer](https://help.kagi.com/kagi/ai/quick-answer.html) feature to cobble together a new version of the script.\n\n```applescript\nset filePath to \"Macintosh HD:Users:kevin:Documents:log.txt\"\nset isoDate to do shell script \"date +'%Y-%m-%d %I:%M %p'\"\n\ntry\n  -- Try to open the file for access\n  set fileRef to open for access file filePath with write permission\n  -- If successful, do something with the file\n  set userInput to \"\"\n  repeat until userInput is not \"\"\n    set userInput to text returned of (display dialog \"What did you do?\" buttons {\"Cancel\", \"OK\"} default button 2 default answer \"\")\n  end repeat\n  write return & return & \"--- \" & return & isoDate & return & return & (ASCII character 9) & userInput to fileRef starting at eof\non error errMsg number errNum\n  if errNum = -49 then\n    -- If the error is that the file is already open\n    close access file filePath -- Close the existing access\n    -- Now reopen the file\n    set fileRef to open for access file filePath with write permission\n    set userInput to \"\"\n    repeat until userInput is not \"\"\n      set userInput to text returned of (display dialog \"What did you do?\" buttons {\"Cancel\", \"OK\"} default button 2 default answer \"\")\n      write return & return & \"--- \" & return & isoDate & return & return & (ASCII character 9) & userInput to fileRef starting at eof\n    end repeat\n  else\n    -- Handle other errors\n    display dialog \"An error occurred: \" & errMsg\n  end if\nend try\n\n-- Close the file when done\nclose access fileRef\n```\nThis is an improvement over my original script as it has better error handling and checks if the file is already open. I'm using [Raycast](https://www.raycast.com) as my launcher now and I've set it up to run this script by pressing the [Hyper Key](https://manual.raycast.com/hyperkey)[^1] + L. I'm hoping to start using this regularly so I can have a good record of my work activites.\n\nI still have the original log file that has entries going back 14 years, and it's interesting to see what I was working on back then.\n\n[^1]: I mapped mine to the Caps Lock key.\n",
+				"date_published": "2025-02-11T09:55:04-04:00",
+				"url": "https://www.kevrodg.net/2025/02/11/i-used-to-have-an.html",
+				"tags": ["Macro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/02/11/solving-in-two-guesses-with.html",
+				
+				"content_html": "<p>Solving in two guesses with only a single misplaced letter in guess one is like magic.</p>\n<p>Wordle 1,333 2/6</p>\n<p>⬛🟨⬛⬛⬛<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Solving in two guesses with only a single misplaced letter in guess one is like magic. \n\nWordle 1,333 2/6\n\n⬛🟨⬛⬛⬛  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2025-02-11T07:56:26-04:00",
+				"url": "https://www.kevrodg.net/2025/02/11/solving-in-two-guesses-with.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/02/06/its-time-for-milking.html",
+				
+				"content_html": "<p>“It’s 4:30, time for milking.” 🎥</p>\n",
+				"content_text": "“It’s 4:30, time for milking.” 🎥\n",
+				"date_published": "2025-02-06T13:26:13-04:00",
+				"url": "https://www.kevrodg.net/2025/02/06/its-time-for-milking.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/02/01/my-last-two-movie-quote.html",
+				
+				"content_html": "<p>My <a href=\"https://www.kevrodg.net/2025/01/26/no-no-mom-im-not.html\">last</a> <a href=\"https://www.kevrodg.net/2025/01/30/i-got-in-the-short.html\">two</a> movie quote posts were from Tom Hanks movies. That wasn&rsquo;t intentional, but it emphasizes the quotability of those movies and how many of them I&rsquo;ve seen multiple times.</p>\n",
+				"content_text": "My [last](https://www.kevrodg.net/2025/01/26/no-no-mom-im-not.html) [two](https://www.kevrodg.net/2025/01/30/i-got-in-the-short.html) movie quote posts were from Tom Hanks movies. That wasn't intentional, but it emphasizes the quotability of those movies and how many of them I've seen multiple times.\n",
+				"date_published": "2025-02-01T10:01:51-04:00",
+				"url": "https://www.kevrodg.net/2025/02/01/my-last-two-movie-quote.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/01/30/i-got-in-the-short.html",
+				
+				"content_html": "<p>“I got in the short line once. It was for farm vehicles” 🎥</p>\n",
+				"content_text": "“I got in the short line once. It was for farm vehicles” 🎥\n",
+				"date_published": "2025-01-30T14:51:14-04:00",
+				"url": "https://www.kevrodg.net/2025/01/30/i-got-in-the-short.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/01/26/no-no-mom-im-not.html",
+				
+				"content_html": "<p>“No. No, Mom. I’m not watching T.V. I…I’m practicing. I practicing.” 🎥</p>\n",
+				"content_text": "“No. No, Mom. I’m not watching T.V. I…I’m practicing. I practicing.” 🎥\n",
+				"date_published": "2025-01-26T10:22:52-04:00",
+				"url": "https://www.kevrodg.net/2025/01/26/no-no-mom-im-not.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/01/22/so-its-sorta-social-demented.html",
+				
+				"content_html": "<p>“So it&rsquo;s sorta social. Demented and sad, but social, right?” 🎥</p>\n",
+				"content_text": "“So it's sorta social. Demented and sad, but social, right?” 🎥\n",
+				"date_published": "2025-01-22T16:22:50-04:00",
+				"url": "https://www.kevrodg.net/2025/01/22/so-its-sorta-social-demented.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/01/16/my-hypocrisy-goes-only-so.html",
+				
+				"content_html": "<p>“My hypocrisy goes only so far.” 🎥</p>\n",
+				"content_text": "“My hypocrisy goes only so far.” 🎥\n",
+				"date_published": "2025-01-16T19:04:57-04:00",
+				"url": "https://www.kevrodg.net/2025/01/16/my-hypocrisy-goes-only-so.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/01/08/i-want-to-get-one.html",
+				
+				"content_html": "<p>“I want to get one thing straight here, or I’m walkin’ too. I don’t work on January the 8th…cause that’s Elvis’ birthday.” 🎥</p>\n",
+				"content_text": "“I want to get one thing straight here, or I’m walkin’ too. I don’t work on January the 8th…cause that’s Elvis’ birthday.” 🎥\n",
+				"date_published": "2025-01-08T14:19:18-04:00",
+				"url": "https://www.kevrodg.net/2025/01/08/i-want-to-get-one.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/01/04/after-a-few-days-experimenting.html",
+				
+				"content_html": "<p>After a few days <a href=\"https://www.kevrodg.net/2024/12/28/im-experimenting-with-using-visual.html\">experimenting with Visual Studio Code</a>, I&rsquo;ve decided to continue using <a href=\"https://www.sublimetext.com\">Sublime Text</a>. It just fits my work style better.</p>\n",
+				"content_text": "After a few days [experimenting with Visual Studio Code](https://www.kevrodg.net/2024/12/28/im-experimenting-with-using-visual.html), I've decided to continue using [Sublime Text](https://www.sublimetext.com). It just fits my work style better.\n",
+				"date_published": "2025-01-04T09:31:51-04:00",
+				"url": "https://www.kevrodg.net/2025/01/04/after-a-few-days-experimenting.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2025/01/01/merry-new-year.html",
+				
+				"content_html": "<p>“Merry New Year!” 🎥</p>\n",
+				"content_text": "“Merry New Year!” 🎥\n",
+				"date_published": "2025-01-01T08:24:17-04:00",
+				"url": "https://www.kevrodg.net/2025/01/01/merry-new-year.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/12/30/disabling-the-google-chat-service.html",
+				"title": "Disabling the Google Chat Service for Some Students",
+				"content_html": "<p>The administration of a high school wants to disable the Google Chat service for some students.</p>\n<p>A simple way to accomplish this would be to create a group named &ldquo;no-chat&rdquo; and set the Google Chat service to OFF for that group. However, in Google Workspace, services can only be set to ON for a group. It would be ideal if OFF could also be set, but that&rsquo;s not currently possible.</p>\n<p>Another option would be to create a new Organizational Unit (OU), set the service to OFF for that OU, and move the necessary users to it. While this approach works, it complicates the OU structure, which could become increasingly complex when future changes are required.</p>\n<p>So, what is the best solution?</p>\n<p>Set the Google Chat service to OFF for the &ldquo;/student/HS&rdquo; OU. Then, create a group named &ldquo;HS-google-chat,&rdquo; add all active high school users as members, and set the Google Chat service to ON for that group. Finally, remove the students for whom Google Chat should be disabled from the group.</p>\n<p>This solution seems promising, but what happens when new students enroll in the high school or former students re-enroll? How can the &ldquo;HS-google-chat&rdquo; group remain up-to-date with all the students who should have Google Chat enabled?</p>\n<p>The answer is to use <a href=\"https://github.com/GAM-team/GAM\">GAM</a>!</p>\n<p>What I came up with is a 3-step process. The first step exports all the active users from the high school OU. The second step creates a new .csv file that removes any students that are listed in a nochat.csv file. The final step synchronizes the HS-google-chat group from the revised .csv file.</p>\n<p>All of these steps are added to a Bash script and run as a cron job. Here is an example of the Bash script:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-bash\" data-lang=\"bash\"><span style=\"color:#75715e\">#! /bin/bash\n</span><span style=\"color:#75715e\"></span>export PATH<span style=\"color:#f92672\">=</span>$PATH:/home/user/bin/gam7\nexport GAMCFGDIR<span style=\"color:#f92672\">=</span><span style=\"color:#e6db74\">&#34;/home/user/GAMConfig&#34;</span>\n<span style=\"color:#75715e\"># This exports all active users from the HS OU to a csv named HS_users.csv</span>\ngam redirect csv /home/user/GAMWork/HS_Chat/HS_users.csv print users query <span style=\"color:#e6db74\">&#34;orgUnitPath=&#39;/student/HS&#39; isSuspended=false&#34;</span>\n\n<span style=\"color:#75715e\"># This creates a new csv file named HS_chat_users.csv that is all the HS_users</span>\n<span style=\"color:#75715e\"># except users who are in the nochat.csv file</span>\nawk <span style=\"color:#e6db74\">&#39;FNR==NR {a[$0];next} !($0 in a)&#39;</span> /home/user/GAMWork/HS_Chat/nochat.csv /home/user/GAMWork/HS_Chat/HS_users.csv &gt; /home/user/GAMWork/HS_Chat/HS_chat_users.csv\n\n<span style=\"color:#75715e\"># This syncs the HS_google_chat group with the users in the HS_chat_users.csv</span>\n<span style=\"color:#75715e\"># file</span>\ngam update group HS-google-chat sync members csvfile /home/user/GAMWork/HS_Chat/HS_chat_users.csv:primaryEmail\n</code></pre></div><p>Currently, changing the users who should have Google Chat disabled requires manually editing the nochat.csv file. What I&rsquo;d like to have it do is pull the list of students from a Google Sheet that is edited by the high school administration. That would give them control over which students don&rsquo;t get Google Chat.</p>\n",
+				"content_text": "The administration of a high school wants to disable the Google Chat service for some students.\n\nA simple way to accomplish this would be to create a group named \"no-chat\" and set the Google Chat service to OFF for that group. However, in Google Workspace, services can only be set to ON for a group. It would be ideal if OFF could also be set, but that's not currently possible.\n\nAnother option would be to create a new Organizational Unit (OU), set the service to OFF for that OU, and move the necessary users to it. While this approach works, it complicates the OU structure, which could become increasingly complex when future changes are required.\n\nSo, what is the best solution?\n\nSet the Google Chat service to OFF for the \"/student/HS\" OU. Then, create a group named \"HS-google-chat,\" add all active high school users as members, and set the Google Chat service to ON for that group. Finally, remove the students for whom Google Chat should be disabled from the group.\n\nThis solution seems promising, but what happens when new students enroll in the high school or former students re-enroll? How can the \"HS-google-chat\" group remain up-to-date with all the students who should have Google Chat enabled? \n\nThe answer is to use [GAM](https://github.com/GAM-team/GAM)!\n\nWhat I came up with is a 3-step process. The first step exports all the active users from the high school OU. The second step creates a new .csv file that removes any students that are listed in a nochat.csv file. The final step synchronizes the HS-google-chat group from the revised .csv file.\n\nAll of these steps are added to a Bash script and run as a cron job. Here is an example of the Bash script:\n\n\n```bash\n#! /bin/bash\nexport PATH=$PATH:/home/user/bin/gam7\nexport GAMCFGDIR=\"/home/user/GAMConfig\"\n# This exports all active users from the HS OU to a csv named HS_users.csv\ngam redirect csv /home/user/GAMWork/HS_Chat/HS_users.csv print users query \"orgUnitPath='/student/HS' isSuspended=false\"\n\n# This creates a new csv file named HS_chat_users.csv that is all the HS_users\n# except users who are in the nochat.csv file\nawk 'FNR==NR {a[$0];next} !($0 in a)' /home/user/GAMWork/HS_Chat/nochat.csv /home/user/GAMWork/HS_Chat/HS_users.csv > /home/user/GAMWork/HS_Chat/HS_chat_users.csv\n\n# This syncs the HS_google_chat group with the users in the HS_chat_users.csv\n# file\ngam update group HS-google-chat sync members csvfile /home/user/GAMWork/HS_Chat/HS_chat_users.csv:primaryEmail\n```\nCurrently, changing the users who should have Google Chat disabled requires manually editing the nochat.csv file. What I'd like to have it do is pull the list of students from a Google Sheet that is edited by the high school administration. That would give them control over which students don't get Google Chat.\n",
+				"date_published": "2024-12-30T18:29:01-04:00",
+				"url": "https://www.kevrodg.net/2024/12/30/disabling-the-google-chat-service.html",
+				"tags": ["Macro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/12/28/im-experimenting-with-using-visual.html",
+				
+				"content_html": "<p>I&rsquo;m experimenting with using <a href=\"https://code.visualstudio.com\">Visual Studio Code</a> instead of <a href=\"https://www.sublimetext.com\">Sublime Text</a>.</p>\n",
+				"content_text": "I'm experimenting with using [Visual Studio Code](https://code.visualstudio.com) instead of [Sublime Text](https://www.sublimetext.com).\n",
+				"date_published": "2024-12-28T09:43:15-04:00",
+				"url": "https://www.kevrodg.net/2024/12/28/im-experimenting-with-using-visual.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/12/23/cookie-clicker-is-on-sale.html",
+				
+				"content_html": "<p><a href=\"https://store.steampowered.com/app/1454400/Cookie_Clicker/\">Cookie Clicker is on sale at Steam</a> for $1.74. 🎮</p>\n",
+				"content_text": "[Cookie Clicker is on sale at Steam](https://store.steampowered.com/app/1454400/Cookie_Clicker/) for $1.74. 🎮\n",
+				"date_published": "2024-12-23T12:17:51-04:00",
+				"url": "https://www.kevrodg.net/2024/12/23/cookie-clicker-is-on-sale.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/12/09/yall-hear-that.html",
+				
+				"content_html": "<p>“Y’all hear that? We’re usin’ codenames.” 🎥</p>\n",
+				"content_text": "“Y’all hear that? We’re usin’ codenames.” 🎥\n",
+				"date_published": "2024-12-09T15:34:07-04:00",
+				"url": "https://www.kevrodg.net/2024/12/09/yall-hear-that.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/11/29/all-you-got.html",
+				
+				"content_html": "<p>“All you got to do is go that way, really fast. If something gets in your way…turn.” 🎥</p>\n",
+				"content_text": "“All you got to do is go that way, really fast. If something gets in your way…turn.” 🎥\n",
+				"date_published": "2024-11-29T18:01:27-04:00",
+				"url": "https://www.kevrodg.net/2024/11/29/all-you-got.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/11/28/i-manage-wifi.html",
+				
+				"content_html": "<p>I manage WiFi for 10,000 users across 11 locations, but somehow, I&rsquo;m unable to get a decent connection in my family room at home.</p>\n",
+				"content_text": "I manage WiFi for 10,000 users across 11 locations, but somehow, I'm unable to get a decent connection in my family room at home.\n",
+				"date_published": "2024-11-28T09:49:31-04:00",
+				"url": "https://www.kevrodg.net/2024/11/28/i-manage-wifi.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/11/27/brothers-dont-shake.html",
+				
+				"content_html": "<p>“Brothers don&rsquo;t shake hands. Brothers gotta hug!” 🎥</p>\n",
+				"content_text": "“Brothers don't shake hands. Brothers gotta hug!” 🎥\n",
+				"date_published": "2024-11-27T19:34:11-04:00",
+				"url": "https://www.kevrodg.net/2024/11/27/brothers-dont-shake.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/11/26/i-know-he.html",
+				
+				"content_html": "<p>“I know he can get the job. But, can he do the job?” 🎥</p>\n",
+				"content_text": "“I know he can get the job. But, can he do the job?” 🎥\n",
+				"date_published": "2024-11-26T19:06:16-04:00",
+				"url": "https://www.kevrodg.net/2024/11/26/i-know-he.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/11/19/i-can-think.html",
+				
+				"content_html": "<p>“I can think of three real good reasons why you shouldn&rsquo;t do something like that, George. One, the Russian wheat harvest isn&rsquo;t going to be as bad as everybody thinks. And two… And three, judging from all these jewels around your girlfriend&rsquo;s neck here, I think you&rsquo;ll need every penny you&rsquo;ve got just to keep her happy.” 🎥</p>\n",
+				"content_text": "“I can think of three real good reasons why you shouldn't do something like that, George. One, the Russian wheat harvest isn't going to be as bad as everybody thinks. And two… And three, judging from all these jewels around your girlfriend's neck here, I think you'll need every penny you've got just to keep her happy.” 🎥\n",
+				"date_published": "2024-11-19T18:41:21-04:00",
+				"url": "https://www.kevrodg.net/2024/11/19/i-can-think.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/11/15/just-added-blast.html",
+				
+				"content_html": "<p>Just added <a href=\"https://www.clutchmerch.com/collections/music/products/blast-tyrant-20th-anniversary-tour-edition\"><em>Blast Tyrant</em> by Clutch</a> to my collection. I love all their albums, but this one is my favorite. 🎵</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just added [_Blast Tyrant_ by Clutch](https://www.clutchmerch.com/collections/music/products/blast-tyrant-20th-anniversary-tour-edition) to my collection. I love all their albums, but this one is my favorite. 🎵\n\n<img src=\"uploads/2024/clutch-blast-tyrant.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated and human edited description: Blast Tyrant by Clutch record with a fantasy-themed cover featuring a dragon-like figure and a “20 Year Anniversary Tour Edition” sticker is placed on a turntable.\">\n",
+				"date_published": "2024-11-15T20:27:24-04:00",
+				"url": "https://www.kevrodg.net/2024/11/15/just-added-blast.html",
+				"tags": ["Music","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/10/15/i-was-one.html",
+				
+				"content_html": "<p>I was one letter away from getting a solve in two for the third straight day.</p>\n<blockquote>\n<p>Wordle 1,214 4/6</p>\n</blockquote>\n<p>🟩🟨⬛⬛🟨<br>\n🟩🟩🟩🟩⬛<br>\n🟩🟩🟩🟩⬛<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "I was one letter away from getting a solve in two for the third straight day.\n\n> Wordle 1,214 4/6\n\n🟩🟨⬛⬛🟨  \n🟩🟩🟩🟩⬛  \n🟩🟩🟩🟩⬛  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2024-10-15T10:10:57-04:00",
+				"url": "https://www.kevrodg.net/2024/10/15/i-was-one.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/10/14/a-wordle-solved.html",
+				
+				"content_html": "<p>A Wordle solved in two is rare. Back to back solves in two is ultra rare.</p>\n<blockquote>\n<p>Wordle 1,213 2/6</p>\n</blockquote>\n<p>🟨⬛🟨⬛🟩<br>\n🟩🟩🟩🟩🟩</p>\n<blockquote>\n<p>Wordle 1,212 2/6</p>\n</blockquote>\n<p>🟩🟨🟨🟨⬛<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "A Wordle solved in two is rare. Back to back solves in two is ultra rare. \n\n> Wordle 1,213 2/6\n\n🟨⬛🟨⬛🟩  \n🟩🟩🟩🟩🟩  \n\n\n> Wordle 1,212 2/6\n\n🟩🟨🟨🟨⬛  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2024-10-14T07:03:05-04:00",
+				"url": "https://www.kevrodg.net/2024/10/14/a-wordle-solved.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/10/12/i-hope-you.html",
+				
+				"content_html": "<p>“I hope you boys won’t be offended by this, but, uh, I gotta get back to work and I was wondering if I could quit the gang. Be willing to give up my share of the money. Obviously, I’d be sworn to secrecy.” 🎥</p>\n",
+				"content_text": "“I hope you boys won’t be offended by this, but, uh, I gotta get back to work and I was wondering if I could quit the gang. Be willing to give up my share of the money. Obviously, I’d be sworn to secrecy.” 🎥\n",
+				"date_published": "2024-10-12T13:59:24-04:00",
+				"url": "https://www.kevrodg.net/2024/10/12/i-hope-you.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/10/08/you-cant-rent.html",
+				
+				"content_html": "<p>“You can’t rent a car with shower curtain rings, Del.” 🎥</p>\n",
+				"content_text": "“You can’t rent a car with shower curtain rings, Del.” 🎥\n",
+				"date_published": "2024-10-08T06:45:37-04:00",
+				"url": "https://www.kevrodg.net/2024/10/08/you-cant-rent.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/09/25/streak-lets-go.html",
+				
+				"content_html": "<p>64 streak! Let’s go!</p>\n<blockquote>\n<p>Wordle 1,194 4/6</p>\n</blockquote>\n<p>⬛🟨⬛⬛⬛<br>\n⬛🟨⬛🟨🟨<br>\n⬛🟩🟩🟨🟩<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "64 streak! Let’s go!\n\n> Wordle 1,194 4/6\n\n⬛🟨⬛⬛⬛  \n⬛🟨⬛🟨🟨  \n⬛🟩🟩🟨🟩  \n🟩🟩🟩🟩🟩\n",
+				"date_published": "2024-09-25T07:00:26-04:00",
+				"url": "https://www.kevrodg.net/2024/09/25/streak-lets-go.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/09/24/with-todays-win.html",
+				
+				"content_html": "<p>With today’s win, I’ve tied the max streak at 63. Tomorrow could set a new record. No pressure.</p>\n<blockquote>\n<p>Wordle 1,193 5/6</p>\n</blockquote>\n<p>⬛⬛🟨⬛🟨<br>\n⬛🟩🟩🟩⬛<br>\n⬛🟩🟩🟩⬛<br>\n⬛🟩🟩🟩🟩<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "With today’s win, I’ve tied the max streak at 63. Tomorrow could set a new record. No pressure.\n\n> Wordle 1,193 5/6\n\n⬛⬛🟨⬛🟨  \n⬛🟩🟩🟩⬛  \n⬛🟩🟩🟩⬛  \n⬛🟩🟩🟩🟩  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2024-09-24T08:15:00-04:00",
+				"url": "https://www.kevrodg.net/2024/09/24/with-todays-win.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/09/18/you-know-a.html",
+				
+				"content_html": "<p>“You know, a lot of people go to college for seven years.” 🎥</p>\n",
+				"content_text": "“You know, a lot of people go to college for seven years.” 🎥\n",
+				"date_published": "2024-09-18T07:22:39-04:00",
+				"url": "https://www.kevrodg.net/2024/09/18/you-know-a.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/09/17/who-has-been.html",
+				
+				"content_html": "<p>“Who has been puttin’ out their Kools on my floor?” 🎥</p>\n",
+				"content_text": "“Who has been puttin’ out their Kools on my floor?” 🎥\n",
+				"date_published": "2024-09-17T12:09:02-04:00",
+				"url": "https://www.kevrodg.net/2024/09/17/who-has-been.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/09/11/she-only-speaks.html",
+				
+				"content_html": "<p>“She only speaks French, Roy. She doesn’t speak Imbecile.” 🎥</p>\n",
+				"content_text": "“She only speaks French, Roy. She doesn’t speak Imbecile.” 🎥\n",
+				"date_published": "2024-09-11T15:40:53-04:00",
+				"url": "https://www.kevrodg.net/2024/09/11/she-only-speaks.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/08/20/did-tommy-ever.html",
+				
+				"content_html": "<p>“Did Tommy ever tell you about my painting?” 🎥</p>\n",
+				"content_text": "“Did Tommy ever tell you about my painting?” 🎥\n",
+				"date_published": "2024-08-20T07:21:02-04:00",
+				"url": "https://www.kevrodg.net/2024/08/20/did-tommy-ever.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/08/12/mom-were-not.html",
+				
+				"content_html": "<p>“Mom, we’re not supposed to study. We just have to sit there and do nothing.” 🎥</p>\n",
+				"content_text": "“Mom, we’re not supposed to study. We just have to sit there and do nothing.” 🎥\n",
+				"date_published": "2024-08-12T10:59:53-04:00",
+				"url": "https://www.kevrodg.net/2024/08/12/mom-were-not.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/06/24/if-youre-interested.html",
+				
+				"content_html": "<p>If you’re interested in a cruel game, put a mouse next to your computer that isn’t connected to it. Then, count how many times during the day you tried to use it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "If you’re interested in a cruel game, put a mouse next to your computer that isn’t connected to it. Then, count how many times during the day you tried to use it.\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"A laptop with a visible screen displaying a workspace background is placed on a dark surface beside a red and black wireless mouse.\">\n",
+				"date_published": "2024-06-24T14:00:57-04:00",
+				"url": "https://www.kevrodg.net/2024/06/24/if-youre-interested.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/06/20/hi-brad-you.html",
+				
+				"content_html": "<p>“Hi Brad. You know how cute I always thought you were.” 🎥</p>\n",
+				"content_text": "“Hi Brad. You know how cute I always thought you were.” 🎥\n",
+				"date_published": "2024-06-20T14:23:04-04:00",
+				"url": "https://www.kevrodg.net/2024/06/20/hi-brad-you.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/06/03/got-some-new.html",
+				
+				"content_html": "<p>Got some new vinyl today. 🎵</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got some new vinyl today. 🎵\n\n<img src=\"uploads/2024/inxs-albums.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A collection of INXS vinyl records is arranged on a table.\">\n",
+				"date_published": "2024-06-03T19:20:20-04:00",
+				"url": "https://www.kevrodg.net/2024/06/03/got-some-new.html",
+				"tags": ["Music","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/05/31/forgot-to-charge.html",
+				
+				"content_html": "<p>Forgot to charge my EV last night. Left the house with 30% and got to work using just 5%. I got 25% left which should be plenty for the ride home. 🔋🚘🤞🏼</p>\n",
+				"content_text": "Forgot to charge my EV last night. Left the house with 30% and got to work using just 5%. I got 25% left which should be plenty for the ride home. 🔋🚘🤞🏼\n",
+				"date_published": "2024-05-31T16:00:38-04:00",
+				"url": "https://www.kevrodg.net/2024/05/31/forgot-to-charge.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/05/30/no-no-no.html",
+				
+				"content_html": "<p>“No, no, no. This is a Rouchefoucauld. The thinnest water resistant watch in the world. Singularly unique, sculptured in design, handcrafted in Switzerland and water resistant to three atmospheres. This is the sports watch of the ’80s. $6,955 retail.” 🎥</p>\n",
+				"content_text": "“No, no, no. This is a Rouchefoucauld. The thinnest water resistant watch in the world. Singularly unique, sculptured in design, handcrafted in Switzerland and water resistant to three atmospheres. This is the sports watch of the ’80s. $6,955 retail.” 🎥\n",
+				"date_published": "2024-05-30T07:08:55-04:00",
+				"url": "https://www.kevrodg.net/2024/05/30/no-no-no.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/05/16/wont-you-gentlemen.html",
+				
+				"content_html": "<p>“Won’t you gentlemen have a Pepsi?” 🎥</p>\n",
+				"content_text": "“Won’t you gentlemen have a Pepsi?” 🎥\n",
+				"date_published": "2024-05-16T17:44:26-04:00",
+				"url": "https://www.kevrodg.net/2024/05/16/wont-you-gentlemen.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/05/08/connections-is-an.html",
+				
+				"content_html": "<p>Connections is an ok game. I don’t play it everyday, but I think it’s good for the brain.</p>\n<blockquote>\n<p>Connections Puzzle #332</p>\n</blockquote>\n<p>🟩🟩🟩🟩<br>\n🟨🟨🟨🟨<br>\n🟪🟪🟪🟪<br>\n🟦🟦🟦🟦</p>\n",
+				"content_text": "Connections is an ok game. I don’t play it everyday, but I think it’s good for the brain.\n\n> Connections Puzzle #332\n\n🟩🟩🟩🟩  \n🟨🟨🟨🟨  \n🟪🟪🟪🟪  \n🟦🟦🟦🟦  \n",
+				"date_published": "2024-05-08T14:08:23-04:00",
+				"url": "https://www.kevrodg.net/2024/05/08/connections-is-an.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/05/06/this-is-how.html",
+				
+				"content_html": "<p>This is how the streak ended.</p>\n<blockquote>\n<p>Wordle 1,052 X/6</p>\n</blockquote>\n<p>🟩⬛⬛⬛🟩<br>\n🟩🟩⬛⬛🟩<br>\n🟩🟩🟩⬛🟩<br>\n🟩🟩🟩⬛🟩<br>\n🟩🟩🟩⬛🟩<br>\n🟩🟩🟩⬛🟩</p>\n",
+				"content_text": "This is how the streak ended.\n\n> Wordle 1,052 X/6\n\n🟩⬛⬛⬛🟩  \n🟩🟩⬛⬛🟩  \n🟩🟩🟩⬛🟩  \n🟩🟩🟩⬛🟩  \n🟩🟩🟩⬛🟩  \n🟩🟩🟩⬛🟩  \n",
+				"date_published": "2024-05-06T07:13:39-04:00",
+				"url": "https://www.kevrodg.net/2024/05/06/this-is-how.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/05/01/got-it-new.html",
+				
+				"content_html": "<p>Got it. New streak now at 59.</p>\n<blockquote>\n<p>Wordle 1,047 5/6</p>\n</blockquote>\n<p>⬛🟨⬛⬛⬛<br>\n🟨⬛⬛🟩⬛<br>\n⬛⬛🟩🟩⬛<br>\n🟩⬛⬛⬛🟩<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Got it. New streak now at 59. \n\n> Wordle 1,047 5/6\n\n⬛🟨⬛⬛⬛  \n🟨⬛⬛🟩⬛  \n⬛⬛🟩🟩⬛  \n🟩⬛⬛⬛🟩  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2024-05-01T10:05:07-04:00",
+				"url": "https://www.kevrodg.net/2024/05/01/got-it-new.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/05/01/if-i-get.html",
+				
+				"content_html": "<p>If I get today’s Wordle, it will be my longest streak.</p>\n",
+				"content_text": "If I get today’s Wordle, it will be my longest streak.\n",
+				"date_published": "2024-05-01T07:00:08-04:00",
+				"url": "https://www.kevrodg.net/2024/05/01/if-i-get.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/04/24/nine-out-of.html",
+				
+				"content_html": "<p>Nine out of every ten fire drills happen when I’m eating lunch. At least it’s nice outside today. 😎</p>\n",
+				"content_text": "Nine out of every ten fire drills happen when I’m eating lunch. At least it’s nice outside today. 😎\n",
+				"date_published": "2024-04-24T12:54:24-04:00",
+				"url": "https://www.kevrodg.net/2024/04/24/nine-out-of.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/04/19/dont-make-her.html",
+				
+				"content_html": "<p>“Don’t make her give up the kids, Frank!” 🎥</p>\n",
+				"content_text": "“Don’t make her give up the kids, Frank!” 🎥\n",
+				"date_published": "2024-04-19T22:49:18-04:00",
+				"url": "https://www.kevrodg.net/2024/04/19/dont-make-her.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/04/13/may-you-live.html",
+				
+				"content_html": "<p>“May you live to be a thousand years old, sir.” 🎥</p>\n",
+				"content_text": "“May you live to be a thousand years old, sir.” 🎥\n",
+				"date_published": "2024-04-13T08:27:04-04:00",
+				"url": "https://www.kevrodg.net/2024/04/13/may-you-live.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/04/10/bye-steve-good.html",
+				
+				"content_html": "<p>“Bye, Steve. Good party.” 🎥</p>\n",
+				"content_text": "“Bye, Steve. Good party.” 🎥\n",
+				"date_published": "2024-04-10T14:39:09-04:00",
+				"url": "https://www.kevrodg.net/2024/04/10/bye-steve-good.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/04/03/i-vastly-underestimated.html",
+				
+				"content_html": "<p>I vastly underestimated how much not being able to run a Windows VM on an M3 MacBook Pro would cramp my style.</p>\n",
+				"content_text": "I vastly underestimated how much not being able to run a Windows VM on an M3 MacBook Pro would cramp my style. \n",
+				"date_published": "2024-04-03T12:04:10-04:00",
+				"url": "https://www.kevrodg.net/2024/04/03/i-vastly-underestimated.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/03/22/is-somebody-playing.html",
+				
+				"content_html": "<p>“Is somebody playing with the computers?” 🎥</p>\n",
+				"content_text": "“Is somebody playing with the computers?” 🎥\n",
+				"date_published": "2024-03-22T17:51:18-04:00",
+				"url": "https://www.kevrodg.net/2024/03/22/is-somebody-playing.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/03/20/hi-my-name.html",
+				
+				"content_html": "<p>“Hi. My name is Werner Brandes. My voice is my passport. Verify me.” 🎥</p>\n",
+				"content_text": "“Hi. My name is Werner Brandes. My voice is my passport. Verify me.” 🎥\n",
+				"date_published": "2024-03-20T18:07:06-04:00",
+				"url": "https://www.kevrodg.net/2024/03/20/hi-my-name.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/03/18/made-it-through.html",
+				
+				"content_html": "<p>Made it through a speed check going 80 this morning. I did say, “oh fudge”, out loud, so I got that going for me.</p>\n",
+				"content_text": "Made it through a speed check going 80 this morning. I did say, “oh fudge”, out loud, so I got that going for me.\n",
+				"date_published": "2024-03-18T17:27:04-04:00",
+				"url": "https://www.kevrodg.net/2024/03/18/made-it-through.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/03/12/wordle-tried-to.html",
+				
+				"content_html": "<p>Wordle tried to trip me up with letters I don’t usually pick. Whew!</p>\n<blockquote>\n<p>Wordle 997 6/6</p>\n</blockquote>\n<p>⬛🟨⬛⬛⬛<br>\n⬛⬛🟩⬛⬛<br>\n⬛⬛⬛⬛🟩<br>\n⬛⬛🟩⬛🟩<br>\n⬛🟩🟩🟩🟩<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Wordle tried to trip me up with letters I don’t usually pick. Whew!\n\n> Wordle 997 6/6\n\n⬛🟨⬛⬛⬛  \n⬛⬛🟩⬛⬛  \n⬛⬛⬛⬛🟩  \n⬛⬛🟩⬛🟩  \n⬛🟩🟩🟩🟩  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2024-03-12T07:13:54-04:00",
+				"url": "https://www.kevrodg.net/2024/03/12/wordle-tried-to.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/03/09/thats-our-new.html",
+				
+				"content_html": "<p>“That’s our new computer. We can pinpoint any fire in town with that. It’s perfect for us, because, you know, we’re the fire department.” 🎥</p>\n",
+				"content_text": "“That’s our new computer. We can pinpoint any fire in town with that. It’s perfect for us, because, you know, we’re the fire department.” 🎥\n",
+				"date_published": "2024-03-09T14:41:31-04:00",
+				"url": "https://www.kevrodg.net/2024/03/09/thats-our-new.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/02/15/i-built-a.html",
+				
+				"content_html": "<p>I built a pyramid today.</p>\n<blockquote>\n<p>Wordle 971 4/6</p>\n</blockquote>\n<p>⬛⬛🟨⬛⬛<br>\n⬛🟨🟨🟨⬛<br>\n🟨🟨🟨🟨🟨<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "I built a pyramid today. \n\n> Wordle 971 4/6\n\n⬛⬛🟨⬛⬛  \n⬛🟨🟨🟨⬛  \n🟨🟨🟨🟨🟨  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2024-02-15T08:18:43-04:00",
+				"url": "https://www.kevrodg.net/2024/02/15/i-built-a.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/01/30/missed-the-wordle.html",
+				
+				"content_html": "<p>Missed the Wordle today and ended a 58 day streak.</p>\n",
+				"content_text": "Missed the Wordle today and ended a 58 day streak.\n",
+				"date_published": "2024-01-30T08:14:59-04:00",
+				"url": "https://www.kevrodg.net/2024/01/30/missed-the-wordle.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/01/25/youd-be-perfectly.html",
+				
+				"content_html": "<p>“You’d be perfectly happy with two eighths instead of a quarter? That’s awfully big of you.” 🎥</p>\n",
+				"content_text": "“You’d be perfectly happy with two eighths instead of a quarter? That’s awfully big of you.” 🎥\n",
+				"date_published": "2024-01-25T12:01:23-04:00",
+				"url": "https://www.kevrodg.net/2024/01/25/youd-be-perfectly.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/01/17/well-this-whole.html",
+				
+				"content_html": "<p>“Well, this whole thing is just who knows who. Then over here you have favoritism.” 🎥</p>\n",
+				"content_text": "“Well, this whole thing is just who knows who. Then over here you have favoritism.” 🎥\n",
+				"date_published": "2024-01-17T14:25:19-04:00",
+				"url": "https://www.kevrodg.net/2024/01/17/well-this-whole.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/01/08/i-want-to.html",
+				
+				"content_html": "<p>“I want to get one thing straight here, or I’m walkin’ too. I don’t work on January the 8th…cause that’s Elvis’ birthday.” 🎥</p>\n",
+				"content_text": "“I want to get one thing straight here, or I’m walkin’ too. I don’t work on January the 8th…cause that’s Elvis’ birthday.” 🎥\n",
+				"date_published": "2024-01-08T08:20:38-04:00",
+				"url": "https://www.kevrodg.net/2024/01/08/i-want-to.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/01/03/use-of-unnecessary.html",
+				
+				"content_html": "<p>“Use of unnecessary violence in the apprehension of the Blues brothers…has been approved.” 🎥</p>\n",
+				"content_text": "“Use of unnecessary violence in the apprehension of the Blues brothers…has been approved.” 🎥\n",
+				"date_published": "2024-01-03T17:47:28-04:00",
+				"url": "https://www.kevrodg.net/2024/01/03/use-of-unnecessary.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2024/01/01/merry-new-year.html",
+				
+				"content_html": "<p>“Merry New Year!” 🎥</p>\n",
+				"content_text": "“Merry New Year!” 🎥\n",
+				"date_published": "2024-01-01T11:03:03-04:00",
+				"url": "https://www.kevrodg.net/2024/01/01/merry-new-year.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/10/31/ev-charging-noob.html",
+				"title": "EV Charging Noob",
+				"content_html": "<p>I made my first attempt to charge my EV at an Electrify America charging station. I tried to use the &ldquo;second&rdquo; plug on a unit, but another patron let me know that won&rsquo;t work. Silly me, I thought two plugs on a unit meant two chargers. There&rsquo;s two to accommodate either side of a car&rsquo;s charging port location (the cords are short). There were no open chargers available and two other people waiting, so I left. I&rsquo;m sure I provided a chuckle to everyone watching. Oh, well.</p>\n",
+				"content_text": "I made my first attempt to charge my EV at an Electrify America charging station. I tried to use the \"second\" plug on a unit, but another patron let me know that won't work. Silly me, I thought two plugs on a unit meant two chargers. There's two to accommodate either side of a car's charging port location (the cords are short). There were no open chargers available and two other people waiting, so I left. I'm sure I provided a chuckle to everyone watching. Oh, well.\n",
+				"date_published": "2023-10-31T16:52:40-04:00",
+				"url": "https://www.kevrodg.net/2023/10/31/ev-charging-noob.html",
+				"tags": ["Macro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/10/24/who-own-the.html",
+				
+				"content_html": "<p>“Who own The Chiefs?” 🎥</p>\n",
+				"content_text": "“Who own The Chiefs?” 🎥\n",
+				"date_published": "2023-10-24T10:16:18-04:00",
+				"url": "https://www.kevrodg.net/2023/10/24/who-own-the.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/10/19/great-youve-killed.html",
+				
+				"content_html": "<p>“Great! You’ve killed The Invisible Swordsman!” 🎥</p>\n",
+				"content_text": "“Great! You’ve killed The Invisible Swordsman!” 🎥\n",
+				"date_published": "2023-10-19T07:25:02-04:00",
+				"url": "https://www.kevrodg.net/2023/10/19/great-youve-killed.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/09/28/can-i-post.html",
+				
+				"content_html": "<p>Can I post to social media while connected to the corporate WiFi?</p>\n",
+				"content_text": "Can I post to social media while connected to the corporate WiFi?\n",
+				"date_published": "2023-09-28T15:09:21-04:00",
+				"url": "https://www.kevrodg.net/2023/09/28/can-i-post.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/09/15/and-she-stepped.html",
+				
+				"content_html": "<p>“…and she stepped on the ball.” 🎥</p>\n",
+				"content_text": "“…and she stepped on the ball.” 🎥\n",
+				"date_published": "2023-09-15T15:18:32-04:00",
+				"url": "https://www.kevrodg.net/2023/09/15/and-she-stepped.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/09/13/getting-the-wordle.html",
+				
+				"content_html": "<p>Getting the Wordle in two with only one match in row one feels like magic.</p>\n<blockquote>\n<p>Wordle 816 2/6</p>\n</blockquote>\n<p>⬛⬛🟩⬛⬛<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "Getting the Wordle in two with only one match in row one feels like magic. \n\n> Wordle 816 2/6\n\n⬛⬛🟩⬛⬛  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2023-09-13T07:10:33-04:00",
+				"url": "https://www.kevrodg.net/2023/09/13/getting-the-wordle.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/09/08/trying-out-appearance.html",
+				
+				"content_html": "<p>Trying out Appearance &gt; Dark on ye olde MacOS. We’ll see how long it lasts. I give it five minutes.</p>\n",
+				"content_text": "Trying out Appearance > Dark on ye olde MacOS. We’ll see how long it lasts. I give it five minutes. \n",
+				"date_published": "2023-09-08T11:43:45-04:00",
+				"url": "https://www.kevrodg.net/2023/09/08/trying-out-appearance.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/09/07/how-about-a.html",
+				
+				"content_html": "<p>“How about a nice hot dog and a beer?” 🎥</p>\n",
+				"content_text": "“How about a nice hot dog and a beer?” 🎥\n",
+				"date_published": "2023-09-07T18:08:57-04:00",
+				"url": "https://www.kevrodg.net/2023/09/07/how-about-a.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/09/04/the-iceis-going.html",
+				
+				"content_html": "<p>“The ice…is going to break!” 🎥</p>\n",
+				"content_text": "“The ice…is going to break!” 🎥\n",
+				"date_published": "2023-09-04T12:08:02-04:00",
+				"url": "https://www.kevrodg.net/2023/09/04/the-iceis-going.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/08/27/cant-take-it.html",
+				
+				"content_html": "<p>“Can’t take it anymore, Felix, I’m crackin’ up. Everything you do irritates me. And when you’re not here, the things I know you’re going to do when you come in irritate me. You leave me little notes on my pillow. Told you 158 times I cannot stand little notes on my pillow! ‘We are all out of Corn Flakes - F.U.’ Took me 3 hours to figure out that F.U. was Felix Ungar.” 🎥</p>\n",
+				"content_text": "“Can’t take it anymore, Felix, I’m crackin’ up. Everything you do irritates me. And when you’re not here, the things I know you’re going to do when you come in irritate me. You leave me little notes on my pillow. Told you 158 times I cannot stand little notes on my pillow! ‘We are all out of Corn Flakes - F.U.’ Took me 3 hours to figure out that F.U. was Felix Ungar.” 🎥\n",
+				"date_published": "2023-08-27T13:41:03-04:00",
+				"url": "https://www.kevrodg.net/2023/08/27/cant-take-it.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/08/24/its-funny-how.html",
+				
+				"content_html": "<p>“It’s funny how the colours of the real world only seem really real when you viddy them on the screen.” 🎥</p>\n",
+				"content_text": "“It’s funny how the colours of the real world only seem really real when you viddy them on the screen.” 🎥\n",
+				"date_published": "2023-08-24T19:18:48-04:00",
+				"url": "https://www.kevrodg.net/2023/08/24/its-funny-how.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/07/24/you-know-a.html",
+				
+				"content_html": "<p>“You know, a lot of people go to college for 7 years.” 🎥</p>\n",
+				"content_text": "“You know, a lot of people go to college for 7 years.” 🎥\n",
+				"date_published": "2023-07-24T20:35:48-04:00",
+				"url": "https://www.kevrodg.net/2023/07/24/you-know-a.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/06/10/according-to-the.html",
+				
+				"content_html": "<p>According to the statistics, this is my 7th two guess out of 275 games played. I did get a one guess once, but that got lost when the NYT bought the game.</p>\n<blockquote>\n<p>Wordle 721 2/6</p>\n</blockquote>\n<p>⬛⬛🟩⬛🟩<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "According to the statistics, this is my 7th two guess out of 275 games played. I did get a one guess once, but that got lost when the NYT bought the game. \n\n> Wordle 721 2/6\n\n⬛⬛🟩⬛🟩  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2023-06-10T08:40:22-04:00",
+				"url": "https://www.kevrodg.net/2023/06/10/according-to-the.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/05/24/as-long-as.html",
+				
+				"content_html": "<p>As long as <a href=\"https://mailplaneapp.com/\">Mailplane</a> keeps working, I’ll continue to use it. <a href=\"https://mimestream.com/\">Mimestream</a> would be an adequate replacement, but it’s missing Calendar access which I use often in Mailplane.</p>\n",
+				"content_text": "As long as [Mailplane](https://mailplaneapp.com/) keeps working, I’ll continue to use it. [Mimestream](https://mimestream.com/) would be an adequate replacement, but it’s missing Calendar access which I use often in Mailplane.\n",
+				"date_published": "2023-05-24T14:07:01-04:00",
+				"url": "https://www.kevrodg.net/2023/05/24/as-long-as.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/05/23/dont-fuck-this.html",
+				
+				"content_html": "<p>“Don’t fuck this up, Mitchell!” 🎥</p>\n",
+				"content_text": "“Don’t fuck this up, Mitchell!” 🎥\n",
+				"date_published": "2023-05-23T18:51:18-04:00",
+				"url": "https://www.kevrodg.net/2023/05/23/dont-fuck-this.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/05/23/the-rare-two.html",
+				
+				"content_html": "<p>The rare two.</p>\n<blockquote>\n<p>Wordle 703 2/6</p>\n</blockquote>\n<p>⬛🟨🟩⬛⬛<br>\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "The rare two. \n\n> Wordle 703 2/6\n\n⬛🟨🟩⬛⬛  \n🟩🟩🟩🟩🟩  \n",
+				"date_published": "2023-05-23T07:13:01-04:00",
+				"url": "https://www.kevrodg.net/2023/05/23/the-rare-two.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/05/22/half-priced-marsedit.html",
+				
+				"content_html": "<p><a href=\"https://danielpunkass.micro.blog/2023/05/20/i-usually-only.html\">Half priced MarsEdit</a>? Yes, please. Thank you!</p>\n",
+				"content_text": "[Half priced MarsEdit](https://danielpunkass.micro.blog/2023/05/20/i-usually-only.html)? Yes, please. Thank you!\n",
+				"date_published": "2023-05-22T19:11:32-04:00",
+				"url": "https://www.kevrodg.net/2023/05/22/half-priced-marsedit.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/05/17/ohwell-pardon-me.html",
+				
+				"content_html": "<p>“Oh…well. Pardon me, Mr. Perfect! I guess I forgot that you never ever make a mistake.” 🎥</p>\n",
+				"content_text": "“Oh…well. Pardon me, Mr. Perfect! I guess I forgot that you never ever make a mistake.” 🎥\n",
+				"date_published": "2023-05-17T09:32:46-04:00",
+				"url": "https://www.kevrodg.net/2023/05/17/ohwell-pardon-me.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/05/16/hi-were-not.html",
+				
+				"content_html": "<p>“Hi. We’re not allowed in the house.” 🎥</p>\n",
+				"content_text": "“Hi. We’re not allowed in the house.” 🎥\n",
+				"date_published": "2023-05-16T14:38:34-04:00",
+				"url": "https://www.kevrodg.net/2023/05/16/hi-were-not.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/05/13/wordle-posting-this.html",
+				
+				"content_html": "<blockquote>\n<p>Wordle 693 4/6</p>\n</blockquote>\n<p>⬛⬛🟨🟨⬛<br>\n🟨🟨🟨⬛⬛<br>\n🟨🟨🟨⬛⬛<br>\n🟩🟩🟩🟩🟩</p>\n<p>Posting this just as a test.</p>\n",
+				"content_text": "> Wordle 693 4/6\n\n⬛⬛🟨🟨⬛  \n🟨🟨🟨⬛⬛  \n🟨🟨🟨⬛⬛  \n🟩🟩🟩🟩🟩  \n\nPosting this just as a test. \n",
+				"date_published": "2023-05-13T10:37:27-04:00",
+				"url": "https://www.kevrodg.net/2023/05/13/wordle-posting-this.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/05/08/beef-jerky-time.html",
+				
+				"content_html": "<p>“Beef Jerky time.” 🎥</p>\n",
+				"content_text": "“Beef Jerky time.” 🎥\n",
+				"date_published": "2023-05-08T10:04:37-04:00",
+				"url": "https://www.kevrodg.net/2023/05/08/beef-jerky-time.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/04/28/i-subscribed-to.html",
+				
+				"content_html": "<p>I subscribed to the <a href=\"https://kagi.com\">Kagi</a> standard plan. I’m going to use it at home and work. The standard plan may not be enough. Might have to upgrade.</p>\n",
+				"content_text": "I subscribed to the [Kagi](https://kagi.com) standard plan. I’m going to use it at home and work. The standard plan may not be enough. Might have to upgrade. \n",
+				"date_published": "2023-04-28T15:02:13-04:00",
+				"url": "https://www.kevrodg.net/2023/04/28/i-subscribed-to.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/04/27/wheres-pancakes-house.html",
+				
+				"content_html": "<p>“Where’s Pancakes House?” 🎥</p>\n",
+				"content_text": "“Where’s Pancakes House?” 🎥\n",
+				"date_published": "2023-04-27T07:10:43-04:00",
+				"url": "https://www.kevrodg.net/2023/04/27/wheres-pancakes-house.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/04/14/i-cant-believe.html",
+				
+				"content_html": "<p>I can&rsquo;t believe I&rsquo;m considering paying a subscription for a search engine.</p>\n",
+				"content_text": "I can't believe I'm considering paying a subscription for a search engine.\n",
+				"date_published": "2023-04-14T17:19:53-04:00",
+				"url": "https://www.kevrodg.net/2023/04/14/i-cant-believe.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/04/13/relax-alright-my.html",
+				
+				"content_html": "<p>“Relax, alright?  My old man is a television repairman. Got this ultimate set of tools. I can fix it!” 🎥</p>\n",
+				"content_text": "“Relax, alright?  My old man is a television repairman. Got this ultimate set of tools. I can fix it!” 🎥\n",
+				"date_published": "2023-04-13T08:35:47-04:00",
+				"url": "https://www.kevrodg.net/2023/04/13/relax-alright-my.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/03/28/sometimes-i-think.html",
+				
+				"content_html": "<p>Sometimes I think I’m typing a password in a VM console, but when I look up from the keyboard, there’s no password. Where did it go then?</p>\n",
+				"content_text": "Sometimes I think I’m typing a password in a VM console, but when I look up from the keyboard, there’s no password. Where did it go then?\n",
+				"date_published": "2023-03-28T09:21:56-04:00",
+				"url": "https://www.kevrodg.net/2023/03/28/sometimes-i-think.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/03/20/just-because-i.html",
+				
+				"content_html": "<p>“Just because I don’t know what it is, doesn’t mean I’m lying.” 🎥</p>\n",
+				"content_text": "“Just because I don’t know what it is, doesn’t mean I’m lying.” 🎥\n",
+				"date_published": "2023-03-20T14:47:48-04:00",
+				"url": "https://www.kevrodg.net/2023/03/20/just-because-i.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/03/16/i-have-a.html",
+				
+				"content_html": "<p>I have a new custom domain and I’m looking into an email service for it. Already tried and cancelled  hey.com. Fastmail looks good, but I don’t need calendar and contacts. Or, do I?</p>\n",
+				"content_text": "I have a new custom domain and I’m looking into an email service for it. Already tried and cancelled  hey.com. Fastmail looks good, but I don’t need calendar and contacts. Or, do I?\n",
+				"date_published": "2023-03-16T12:11:09-04:00",
+				"url": "https://www.kevrodg.net/2023/03/16/i-have-a.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/03/09/im-very-glad.html",
+				
+				"content_html": "<p>I’m very glad I pre-ordered a <a href=\"https://play.date\">PlayDate</a> before <a href=\"https://micro.blog/gruber@mastodon.social\">@gruber@mastodon.social</a> posted about the upcoming price increase.</p>\n",
+				"content_text": "I’m very glad I pre-ordered a [PlayDate](https://play.date) before [@gruber@mastodon.social](https://micro.blog/gruber@mastodon.social) posted about the upcoming price increase. \n",
+				"date_published": "2023-03-09T09:50:49-04:00",
+				"url": "https://www.kevrodg.net/2023/03/09/im-very-glad.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/03/08/the-mastodon-experience.html",
+				
+				"content_html": "<p>The Mastodon experience is better from the Mastodon side than the micro.blog side. But, do I even want the Mastodon experience?</p>\n",
+				"content_text": "The Mastodon experience is better from the Mastodon side than the micro.blog side. But, do I even want the Mastodon experience?\n",
+				"date_published": "2023-03-08T12:53:34-04:00",
+				"url": "https://www.kevrodg.net/2023/03/08/the-mastodon-experience.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/03/07/i-can-follow.html",
+				
+				"content_html": "<p>I can follow and reply to Mastodon users with micro.blog. Why then would I need a Mastodon account?</p>\n",
+				"content_text": "I can follow and reply to Mastodon users with micro.blog. Why then would I need a Mastodon account?\n",
+				"date_published": "2023-03-07T15:44:11-04:00",
+				"url": "https://www.kevrodg.net/2023/03/07/i-can-follow.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/03/06/karl-schie-dem.html",
+				
+				"content_html": "<p>“Karl, schieß dem fenster.” 🎥</p>\n",
+				"content_text": "“Karl, schieß dem fenster.” 🎥\n",
+				"date_published": "2023-03-06T22:00:58-04:00",
+				"url": "https://www.kevrodg.net/2023/03/06/karl-schie-dem.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/03/02/dont-worry-if.html",
+				
+				"content_html": "<p>“Don’t worry. If the roast beef is right, they’ll be back.” 🎥</p>\n",
+				"content_text": "“Don’t worry. If the roast beef is right, they’ll be back.” 🎥\n",
+				"date_published": "2023-03-02T12:47:34-04:00",
+				"url": "https://www.kevrodg.net/2023/03/02/dont-worry-if.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/02/15/if-you-carry.html",
+				
+				"content_html": "<p>If you carry your phone and wallet in the same pocket, I recommend that you don’t take your phone out until after you’ve gotten in your car and closed the door. This will ensure that the wallet doesn’t fall on the ground and you drive away without it.</p>\n",
+				"content_text": "If you carry your phone and wallet in the same pocket, I recommend that you don’t take your phone out until after you’ve gotten in your car and closed the door. This will ensure that the wallet doesn’t fall on the ground and you drive away without it. \n",
+				"date_published": "2023-02-15T09:35:35-04:00",
+				"url": "https://www.kevrodg.net/2023/02/15/if-you-carry.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/02/14/im-now-using.html",
+				
+				"content_html": "<p>I’m now using Fira Code 18pt as my monospace font.</p>\n",
+				"content_text": "I’m now using Fira Code 18pt as my monospace font.\n",
+				"date_published": "2023-02-14T14:08:05-04:00",
+				"url": "https://www.kevrodg.net/2023/02/14/im-now-using.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/02/07/carmine-said-one.html",
+				
+				"content_html": "<p>“Carmine said one boy. Here are two.” 🎥</p>\n",
+				"content_text": "“Carmine said one boy. Here are two.” 🎥\n",
+				"date_published": "2023-02-07T11:27:05-04:00",
+				"url": "https://www.kevrodg.net/2023/02/07/carmine-said-one.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/02/02/how-do-you.html",
+				
+				"content_html": "<p>How do you throw out a garbage can?</p>\n",
+				"content_text": "How do you throw out a garbage can?\n",
+				"date_published": "2023-02-02T11:49:06-04:00",
+				"url": "https://www.kevrodg.net/2023/02/02/how-do-you.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/02/01/hey-pinocchio-where.html",
+				
+				"content_html": "<p>“Hey! Pinocchio. Where are you going?” 🎥</p>\n",
+				"content_text": "“Hey! Pinocchio. Where are you going?” 🎥\n",
+				"date_published": "2023-02-01T13:42:41-04:00",
+				"url": "https://www.kevrodg.net/2023/02/01/hey-pinocchio-where.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/02/01/trying-chrome-with.html",
+				
+				"content_html": "<p>Trying Chrome with the bookmarks bar hidden. I only have six bookmarks and I can easily open them by typing in the address bar.</p>\n",
+				"content_text": "Trying Chrome with the bookmarks bar hidden. I only have six bookmarks and I can easily open them by typing in the address bar. \n",
+				"date_published": "2023-02-01T10:56:16-04:00",
+				"url": "https://www.kevrodg.net/2023/02/01/trying-chrome-with.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/01/28/trying-our-marsedit.html",
+				
+				"content_html": "<p>Trying out <a href=\"https://redsweater.com/marsedit/\">MarsEdit</a> for posting to my site.</p>\n",
+				"content_text": "Trying out [MarsEdit](https://redsweater.com/marsedit/) for posting to my site.\n",
+				"date_published": "2023-01-28T13:18:04-04:00",
+				"url": "https://www.kevrodg.net/2023/01/28/trying-our-marsedit.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/01/26/you-cant-triple.html",
+				
+				"content_html": "<p>“You can’t triple stamp a double stamp! You can’t triple stamp a double stamp, Lloyd! You can’t triple stamp a double stamp!” 🎥</p>\n",
+				"content_text": "“You can’t triple stamp a double stamp! You can’t triple stamp a double stamp, Lloyd! You can’t triple stamp a double stamp!” 🎥\n",
+				"date_published": "2023-01-26T10:23:58-04:00",
+				"url": "https://www.kevrodg.net/2023/01/26/you-cant-triple.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/01/24/alright-meow-hand.html",
+				
+				"content_html": "<p>“Alright meow, hand over your license and registration.” 🎥</p>\n",
+				"content_text": "“Alright meow, hand over your license and registration.” 🎥\n",
+				"date_published": "2023-01-24T21:30:47-04:00",
+				"url": "https://www.kevrodg.net/2023/01/24/alright-meow-hand.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/01/17/its-miles-to.html",
+				
+				"content_html": "<p>“It’s 106 miles to Chicago. We got a full tank of gas, half a pack of cigarettes, it’s dark, and we’re wearing sunglasses.” 🎥</p>\n",
+				"content_text": "“It’s 106 miles to Chicago. We got a full tank of gas, half a pack of cigarettes, it’s dark, and we’re wearing sunglasses.” 🎥\n",
+				"date_published": "2023-01-17T21:35:31-04:00",
+				"url": "https://www.kevrodg.net/2023/01/17/its-miles-to.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/01/11/this-is-my.html",
+				
+				"content_html": "<p>This is my second 2/6 this week.</p>\n<p>Wordle 571 2/6:</p>\n<p>⬛🟩🟨⬛🟩<!-- raw HTML omitted -->\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "This is my second 2/6 this week.\n\nWordle 571 2/6:\n\n⬛🟩🟨⬛🟩</br>\n🟩🟩🟩🟩🟩\n",
+				"date_published": "2023-01-11T08:09:15-04:00",
+				"url": "https://www.kevrodg.net/2023/01/11/this-is-my.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/01/08/i-want-to.html",
+				
+				"content_html": "<p>“I want to get one thing straight here, or I’m walkin’ too. I don’t work on January the 8th…cause that’s Elvis’ birthday.” 🎥</p>\n",
+				"content_text": "“I want to get one thing straight here, or I’m walkin’ too. I don’t work on January the 8th…cause that’s Elvis’ birthday.” 🎥\n",
+				"date_published": "2023-01-08T17:38:31-04:00",
+				"url": "https://www.kevrodg.net/2023/01/08/i-want-to.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2023/01/05/why-are-you.html",
+				
+				"content_html": "<p>“Why are you speaking American?” 🎥</p>\n",
+				"content_text": "“Why are you speaking American?” 🎥\n",
+				"date_published": "2023-01-05T15:59:21-04:00",
+				"url": "https://www.kevrodg.net/2023/01/05/why-are-you.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2022/12/19/hey-griswald-where.html",
+				
+				"content_html": "<p>“Hey Griswald! Where do you think you’re gonna put a tree that big?” 🎥</p>\n",
+				"content_text": "“Hey Griswald! Where do you think you’re gonna put a tree that big?” 🎥\n",
+				"date_published": "2022-12-19T13:54:18-04:00",
+				"url": "https://www.kevrodg.net/2022/12/19/hey-griswald-where.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2022/12/19/my-site-has.html",
+				
+				"content_html": "<p>My site has nothing on it. What is that? Try posting something new and see what happens.</p>\n",
+				"content_text": "My site has nothing on it. What is that? Try posting something new and see what happens. \n",
+				"date_published": "2022-12-19T13:50:11-04:00",
+				"url": "https://www.kevrodg.net/2022/12/19/my-site-has.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2022/06/06/knotwords-daily-classic.html",
+				
+				"content_html": "<blockquote>\n<p>Knotwords Daily Classic Jun. 6 2022\n01:05\nHints: 0</p>\n</blockquote>\n<p>playknotwords.com 🪢 📝</p>\n",
+				"content_text": "\n\n> Knotwords Daily Classic Jun. 6 2022\n01:05\nHints: 0\n\nplayknotwords.com 🪢 📝\n",
+				"date_published": "2022-06-06T13:07:12-04:00",
+				"url": "https://www.kevrodg.net/2022/06/06/knotwords-daily-classic.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2022/05/30/whats-a-widget.html",
+				
+				"content_html": "<p>“What’s a widget?” 🎥</p>\n",
+				"content_text": "“What’s a widget?” 🎥\n",
+				"date_published": "2022-05-30T17:40:12-04:00",
+				"url": "https://www.kevrodg.net/2022/05/30/whats-a-widget.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2022/02/02/your-middle-name.html",
+				
+				"content_html": "<p>“Your middle name is Ralph, as in puke.” 🎥</p>\n",
+				"content_text": "“Your middle name is Ralph, as in puke.” 🎥\n",
+				"date_published": "2022-02-02T12:13:27-04:00",
+				"url": "https://www.kevrodg.net/2022/02/02/your-middle-name.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2021/05/19/yeah-my-dad.html",
+				
+				"content_html": "<p>“Yeah, my dad let’s me drive slow on the driveway. I’m an excellent driver. ” 🎥</p>\n",
+				"content_text": "“Yeah, my dad let’s me drive slow on the driveway. I’m an excellent driver. ” 🎥\n",
+				"date_published": "2021-05-19T12:37:03-04:00",
+				"url": "https://www.kevrodg.net/2021/05/19/yeah-my-dad.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2021/04/25/gary-was-just.html",
+				
+				"content_html": "<p>“Gary was just taking a shit.” 🎥</p>\n",
+				"content_text": "“Gary was just taking a shit.” 🎥\n",
+				"date_published": "2021-04-25T13:09:39-04:00",
+				"url": "https://www.kevrodg.net/2021/04/25/gary-was-just.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2021/04/18/we-just-talked.html",
+				
+				"content_html": "<p>“We just talked to that guy Ito. We found out there’s no raise for 13,000 cars. I’m calling all the guys and we’re coming to get you!” 🎥</p>\n",
+				"content_text": "“We just talked to that guy Ito. We found out there’s no raise for 13,000 cars. I’m calling all the guys and we’re coming to get you!” 🎥\n",
+				"date_published": "2021-04-18T15:22:50-04:00",
+				"url": "https://www.kevrodg.net/2021/04/18/we-just-talked.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2021/03/06/could-be-the.html",
+				
+				"content_html": "<p>“Could be the bypass line, yeah. Maybe I should take a look at it.” 🎥</p>\n",
+				"content_text": "“Could be the bypass line, yeah. Maybe I should take a look at it.” 🎥\n",
+				"date_published": "2021-03-06T17:45:32-04:00",
+				"url": "https://www.kevrodg.net/2021/03/06/could-be-the.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2021/03/05/i-removed-the.html",
+				
+				"content_html": "<p>I removed the default feed, so this shouldn’t end up in the timeline. I’m thinking this will make my site more like a traditional blog, without the social aspects of <a href=\"https://micro.blog\">Micro.blog</a>.</p>\n",
+				"content_text": "I removed the default feed, so this shouldn’t end up in the timeline. I’m thinking this will make my site more like a traditional blog, without the social aspects of [Micro.blog](https://micro.blog).\r\n\r\n",
+				"date_published": "2021-03-05T18:33:49-04:00",
+				"url": "https://www.kevrodg.net/2021/03/05/i-removed-the.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/02/24/its-challenging-to.html",
+				
+				"content_html": "<p>It&rsquo;s challenging to put together a Spotify playlist that last for 8 hours. I constrain it to no band repeats (but spin offs are acceptable, e.g., Nirvana and Foo Fighters). You’ll know I’m getting lazy when you see a Dream Theater song.</p>\n",
+				"content_text": "It's challenging to put together a Spotify playlist that last for 8 hours. I constrain it to no band repeats (but spin offs are acceptable, e.g., Nirvana and Foo Fighters). You’ll know I’m getting lazy when you see a Dream Theater song.\n",
+				"date_published": "2020-02-24T10:29:26-04:00",
+				"url": "https://www.kevrodg.net/2020/02/24/its-challenging-to.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/02/21/i-went-back.html",
+				
+				"content_html": "<p>I went back to bash as my default shell and also ditched <a href=\"https://iterm2.com/\">iTerm2</a> in favor of the stock Terminal.app.</p>\n",
+				"content_text": "I went back to bash as my default shell and also ditched [iTerm2](https://iterm2.com/) in favor of the stock Terminal.app.\n",
+				"date_published": "2020-02-21T15:07:18-04:00",
+				"url": "https://www.kevrodg.net/2020/02/21/i-went-back.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/02/14/ive-switched-back.html",
+				
+				"content_html": "<p>I&rsquo;ve switched back to using my MacBook Pro as my daily driver at work. The Windows experiment was fine, but I&rsquo;m more comfortable on MacOS. Plus, I was starting to get too cozy with Windows style keyboard shortcuts.</p>\n",
+				"content_text": "I've switched back to using my MacBook Pro as my daily driver at work. The Windows experiment was fine, but I'm more comfortable on MacOS. Plus, I was starting to get too cozy with Windows style keyboard shortcuts.\n",
+				"date_published": "2020-02-14T13:57:04-04:00",
+				"url": "https://www.kevrodg.net/2020/02/14/ive-switched-back.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/02/13/one-way-to.html",
+				
+				"content_html": "<p>One way to bypass the filter is to check for an Android App on the Chromebook with a built-in web browser. The filter extension does not run in Android Apps, and therefore cannot block or log anything. <em>Bonus</em>: Hapara cannot run either, so teacher&rsquo;s can&rsquo;t view the activity.</p>\n",
+				"content_text": "One way to bypass the filter is to check for an Android App on the Chromebook with a built-in web browser. The filter extension does not run in Android Apps, and therefore cannot block or log anything. *Bonus*: Hapara cannot run either, so teacher's can't view the activity.\n",
+				"date_published": "2020-02-13T14:41:00-04:00",
+				"url": "https://www.kevrodg.net/2020/02/13/one-way-to.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/02/13/knowing-what-i.html",
+				
+				"content_html": "<p>Knowing what I know about how computers work, how would I bypass the school’s web filter to access blocked sites?</p>\n",
+				"content_text": "Knowing what I know about how computers work, how would I bypass the school’s web filter to access blocked sites?\n",
+				"date_published": "2020-02-13T11:27:58-04:00",
+				"url": "https://www.kevrodg.net/2020/02/13/knowing-what-i.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/02/06/im-trying-out.html",
+				
+				"content_html": "<p>I’m trying out a Lenovo X1 Yoga with Windows 10 as my main ride for work. It&rsquo;s been one day and so far it’s been ok.</p>\n",
+				"content_text": "I’m trying out a Lenovo X1 Yoga with Windows 10 as my main ride for work. It's been one day and so far it’s been ok.\n",
+				"date_published": "2020-02-06T15:59:05-04:00",
+				"url": "https://www.kevrodg.net/2020/02/06/im-trying-out.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/02/06/he-got-a.html",
+				
+				"content_html": "<p>“He got a daddy named Forrest, too?” 🎥</p>\n",
+				"content_text": "“He got a daddy named Forrest, too?” 🎥\n",
+				"date_published": "2020-02-06T10:56:34-04:00",
+				"url": "https://www.kevrodg.net/2020/02/06/he-got-a.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/01/27/lets-go-to.html",
+				
+				"content_html": "<p>“Let’s go to the top, Dad.” 🎥</p>\n",
+				"content_text": "“Let’s go to the top, Dad.” 🎥\n",
+				"date_published": "2020-01-27T11:29:23-04:00",
+				"url": "https://www.kevrodg.net/2020/01/27/lets-go-to.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/01/21/you-know-its.html",
+				
+				"content_html": "<p>You know it&rsquo;s going to be expensive when you go to Pricing and it reads, “Click Here to Contact Sales”.</p>\n",
+				"content_text": "You know it's going to be expensive when you go to Pricing and it reads, “Click Here to Contact Sales”.\n",
+				"date_published": "2020-01-21T10:10:21-04:00",
+				"url": "https://www.kevrodg.net/2020/01/21/you-know-its.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/01/12/danaare-these-the.html",
+				
+				"content_html": "<p>“Dana…are these the eggs?” 🎥</p>\n",
+				"content_text": "“Dana…are these the eggs?” 🎥\n",
+				"date_published": "2020-01-12T14:48:00-04:00",
+				"url": "https://www.kevrodg.net/2020/01/12/danaare-these-the.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2020/01/08/i-want-to.html",
+				
+				"content_html": "<p>“I want to get one thing straight here, or I’m walkin’ too. I don’t work on January the 8th…cause that’s Elvis’ birthday.” 🎥</p>\n",
+				"content_text": "“I want to get one thing straight here, or I’m walkin’ too. I don’t work on January the 8th…cause that’s Elvis’ birthday.” 🎥\n",
+				"date_published": "2020-01-08T16:08:11-04:00",
+				"url": "https://www.kevrodg.net/2020/01/08/i-want-to.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/12/15/left-the-christmas.html",
+				
+				"content_html": "<p>Left the Christmas tree outside last night, and found a bird’s nest in it this morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Left the Christmas tree outside last night, and found a bird’s nest in it this morning. \n\n<img src=\"uploads/2019/217daae967.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-12-15T12:08:17-04:00",
+				"url": "https://www.kevrodg.net/2019/12/15/left-the-christmas.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/12/13/welp-im-back.html",
+				
+				"content_html": "<p>Welp, I’m back on Twitter after being away for a couple of years.</p>\n",
+				"content_text": "Welp, I’m back on Twitter after being away for a couple of years.\n",
+				"date_published": "2019-12-13T12:33:56-04:00",
+				"url": "https://www.kevrodg.net/2019/12/13/welp-im-back.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/12/12/120248.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2019/0ae163db97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-12-12T13:02:48-04:00",
+				"url": "https://www.kevrodg.net/2019/12/12/120248.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/12/04/i-just-exported.html",
+				
+				"content_html": "<p>I just exported a Google Doc with a PowerShell script and the Google Drive API. Nice, right?</p>\n",
+				"content_text": "I just exported a Google Doc with a PowerShell script and the Google Drive API. Nice, right?\n",
+				"date_published": "2019-12-04T09:29:40-04:00",
+				"url": "https://www.kevrodg.net/2019/12/04/i-just-exported.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/11/13/i-am-not.html",
+				
+				"content_html": "<p>I am not to be trusted with Krazy Glue. I got a Hot Wheels car stuck to my fingers last night. I&rsquo;m ok, but that stuff is strong.</p>\n",
+				"content_text": "I am not to be trusted with Krazy Glue. I got a Hot Wheels car stuck to my fingers last night. I'm ok, but that stuff is strong.\n",
+				"date_published": "2019-11-13T09:14:42-04:00",
+				"url": "https://www.kevrodg.net/2019/11/13/i-am-not.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/11/08/do-you-sell.html",
+				
+				"content_html": "<p>“Do you sell hubcaps for a ’72 Pinto Hatchback?” 🎥</p>\n",
+				"content_text": "“Do you sell hubcaps for a ’72 Pinto Hatchback?” 🎥\n",
+				"date_published": "2019-11-08T10:19:34-04:00",
+				"url": "https://www.kevrodg.net/2019/11/08/do-you-sell.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/10/30/i-just-exported.html",
+				
+				"content_html": "<p>I just exported my Fitbit data and deleted my account. (h/t <a href=\"https://twitter.com/hotdogsladies/status/1189269409950502912\">@hotdogsladies</a>)</p>\n",
+				"content_text": "I just exported my Fitbit data and deleted my account. (h/t [@hotdogsladies](https://twitter.com/hotdogsladies/status/1189269409950502912))\n",
+				"date_published": "2019-10-30T09:34:46-04:00",
+				"url": "https://www.kevrodg.net/2019/10/30/i-just-exported.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/10/30/syntax-highlight-test.html",
+				
+				"content_html": "<p>Syntax Highlight Test:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-python\" data-lang=\"python\"><span style=\"color:#66d9ef\">def</span> <span style=\"color:#a6e22e\">reverse</span>(text):\n    pos <span style=\"color:#f92672\">=</span> <span style=\"color:#f92672\">-</span><span style=\"color:#ae81ff\">1</span>\n    rev <span style=\"color:#f92672\">=</span> <span style=\"color:#e6db74\">&#34;&#34;</span>\n    <span style=\"color:#66d9ef\">for</span> i <span style=\"color:#f92672\">in</span> text:\n        rev <span style=\"color:#f92672\">=</span> rev <span style=\"color:#f92672\">+</span> text[len(text) <span style=\"color:#f92672\">+</span> pos]\n        pos <span style=\"color:#f92672\">=</span> pos <span style=\"color:#f92672\">-</span><span style=\"color:#ae81ff\">1</span>\nprint rev\n\nreverse(<span style=\"color:#e6db74\">&#34;Python!&#34;</span>)\n</code></pre></div>",
+				"content_text": "Syntax Highlight Test:\n\n```python\ndef reverse(text):\n    pos = -1\n    rev = \"\"\n    for i in text:\n        rev = rev + text[len(text) + pos]\n        pos = pos -1\nprint rev\n\nreverse(\"Python!\")\n```\n",
+				"date_published": "2019-10-30T09:23:45-04:00",
+				"url": "https://www.kevrodg.net/2019/10/30/syntax-highlight-test.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/09/30/i-dont-know.html",
+				
+				"content_html": "<p>“I don’t know. I’m a fast cook I guess.” 🎥</p>\n",
+				"content_text": "“I don’t know. I’m a fast cook I guess.” 🎥\n",
+				"date_published": "2019-09-30T09:59:08-04:00",
+				"url": "https://www.kevrodg.net/2019/09/30/i-dont-know.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/08/30/i-did-a.html",
+				
+				"content_html": "<p>I did a fresh start in <a href=\"https://www.youneedabudget.com\">YNAB</a> for September. I&rsquo;d really like to give it more attention for the rest of the year.</p>\n",
+				"content_text": "I did a fresh start in [YNAB](https://www.youneedabudget.com) for September. I'd really like to give it more attention for the rest of the year.\n",
+				"date_published": "2019-08-30T12:50:38-04:00",
+				"url": "https://www.kevrodg.net/2019/08/30/i-did-a.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/08/27/im-going-to.html",
+				
+				"content_html": "<p>I’m going to try the <strong>No Signature</strong> option on my emails and see how I like it. It seems unnecessary since the From: field already shows it’s from me.</p>\n",
+				"content_text": "I’m going to try the **No Signature** option on my emails and see how I like it. It seems unnecessary since the From: field already shows it’s from me.\n",
+				"date_published": "2019-08-27T14:55:03-04:00",
+				"url": "https://www.kevrodg.net/2019/08/27/im-going-to.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/07/27/my-head-is.html",
+				
+				"content_html": "<p>My head is roundish in this picture of my shadow.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My head is roundish in this picture of my shadow. \n\n<img src=\"uploads/2019/14a701cf45.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2019-07-27T20:32:30-04:00",
+				"url": "https://www.kevrodg.net/2019/07/27/my-head-is.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/07/11/two-gcn-trainings.html",
+				
+				"content_html": "<p>Two GCN Trainings down, eight to go.</p>\n",
+				"content_text": "Two GCN Trainings down, eight to go.\n",
+				"date_published": "2019-07-11T17:21:47-04:00",
+				"url": "https://www.kevrodg.net/2019/07/11/two-gcn-trainings.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/05/02/adding-both-channels.html",
+				"title": "Adding Both Channels from a Dahua IPC Camera into VI MonitorPlus",
+				"content_html": "<p>In order to get both channels from a Dahua IPC-HDBW4231F-E2-M camera into VI MonitorPlus, select <strong>ONVIF</strong> as the manufacturer and <strong>ONVIF Profile S Compliant Camera</strong> as the model. Select the <em>Shared IP Address</em> checkbox and use <em>Camera #</em> 1 for channel 1 and <em>Camera #</em> 3 for channel 2 (camera numbers 2 and 4 are for the secondary streams). Each channel needs to be added as a seperate camera.</p>\n",
+				"content_text": "In order to get both channels from a Dahua IPC-HDBW4231F-E2-M camera into VI MonitorPlus, select **ONVIF** as the manufacturer and **ONVIF Profile S Compliant Camera** as the model. Select the *Shared IP Address* checkbox and use *Camera #* 1 for channel 1 and *Camera #* 3 for channel 2 (camera numbers 2 and 4 are for the secondary streams). Each channel needs to be added as a seperate camera.\n",
+				"date_published": "2019-05-02T09:33:15-04:00",
+				"url": "https://www.kevrodg.net/2019/05/02/adding-both-channels.html",
+				"tags": ["Macro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/03/11/queued-some-today.html",
+				
+				"content_html": "<p>Queued some <a href=\"http://www.311.com\">311</a> today because, well, 2019-03-11.</p>\n",
+				"content_text": "Queued some [311](http://www.311.com) today because, well, 2019-03-11. \n",
+				"date_published": "2019-03-11T08:24:27-04:00",
+				"url": "https://www.kevrodg.net/2019/03/11/queued-some-today.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/01/08/i-want-to.html",
+				
+				"content_html": "<p>“I want to get one thing straight here, or I’m walkin’ too. I don’t work on January the 8th…cause that’s Elvis’ birthday.”  🎥</p>\n",
+				"content_text": "“I want to get one thing straight here, or I’m walkin’ too. I don’t work on January the 8th…cause that’s Elvis’ birthday.”  🎥\n",
+				"date_published": "2019-01-08T10:58:49-04:00",
+				"url": "https://www.kevrodg.net/2019/01/08/i-want-to.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2019/01/07/paypal-was-denying.html",
+				
+				"content_html": "<p>PayPal was denying my credit cards, so I got a prepaid Visa so I could buy a license for <a href=\"https://www.monokai.pro\">Monokai Pro</a>. It cost me a bit extra to do it this way, but I&rsquo;m happy I was able to get the license. I like how SublimeText looks with this theme.</p>\n",
+				"content_text": "PayPal was denying my credit cards, so I got a prepaid Visa so I could buy a license for [Monokai Pro](https://www.monokai.pro). It cost me a bit extra to do it this way, but I'm happy I was able to get the license. I like how SublimeText looks with this theme.\n",
+				"date_published": "2019-01-07T14:37:45-04:00",
+				"url": "https://www.kevrodg.net/2019/01/07/paypal-was-denying.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/12/07/goodbye-edge-if.html",
+				
+				"content_html": "<p><a href=\"https://blog.mozilla.org/blog/2018/12/06/goodbye-edge/\">Goodbye Edge</a></p>\n<blockquote>\n<p>If you care about what’s happening with online life today, take another look at Firefox. It’s radically better than it was 18 months ago — Firefox once again holds its own when it comes to speed and performance.</p>\n</blockquote>\n<p>I&rsquo;m giving Firefox a try as my default browser for work stuff. For home stuff, I use Safari.</p>\n",
+				"content_text": "[Goodbye Edge](https://blog.mozilla.org/blog/2018/12/06/goodbye-edge/)\n\n>If you care about what’s happening with online life today, take another look at Firefox. It’s radically better than it was 18 months ago — Firefox once again holds its own when it comes to speed and performance.\n\nI'm giving Firefox a try as my default browser for work stuff. For home stuff, I use Safari.\n",
+				"date_published": "2018-12-07T15:58:02-04:00",
+				"url": "https://www.kevrodg.net/2018/12/07/goodbye-edge-if.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/11/30/what-kind-of.html",
+				
+				"content_html": "<p>“What kind of a name is Poon?” 🎥</p>\n",
+				"content_text": "  “What kind of a name is Poon?” 🎥\n",
+				"date_published": "2018-11-30T09:46:41-04:00",
+				"url": "https://www.kevrodg.net/2018/11/30/what-kind-of.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/11/14/check-it-out.html",
+				
+				"content_html": "<p>Check it out: “Keep Moving &amp; Get Out of the Way” by <a href=\"https://twitter.com/roderickon\">@roderickon</a> on <a href=\"https://twitter.com/cottonbureau\">@cottonbureau</a> — <a href=\"https://cottonbureau.com/products/keep-moving-get-out-of-the-way\">cottonbureau.com</a> Only 19 days left!</p>\n",
+				"content_text": "Check it out: “Keep Moving & Get Out of the Way” by [@roderickon](https://twitter.com/roderickon) on [@cottonbureau](https://twitter.com/cottonbureau) — [cottonbureau.com](https://cottonbureau.com/products/keep-moving-get-out-of-the-way) Only 19 days left!\n",
+				"date_published": "2018-11-14T13:28:24-04:00",
+				"url": "https://www.kevrodg.net/2018/11/14/check-it-out.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/11/13/i-fucking-hate.html",
+				
+				"content_html": "<p>I <em>fucking</em> hate Adobe licensing.</p>\n",
+				"content_text": "I *fucking* hate Adobe licensing.\n",
+				"date_published": "2018-11-13T15:21:49-04:00",
+				"url": "https://www.kevrodg.net/2018/11/13/i-fucking-hate.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/11/06/what-do-you.html",
+				
+				"content_html": "<p>“What do you need a fake ID for?”</p>\n<p>“So I can vote.”</p>\n<p>🎥</p>\n",
+				"content_text": "“What do you need a fake ID for?”\n\n“So I can vote.”\n\n🎥\n",
+				"date_published": "2018-11-06T10:16:15-04:00",
+				"url": "https://www.kevrodg.net/2018/11/06/what-do-you.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/10/05/all-it-took.html",
+				
+				"content_html": "<p>All it took was trying to open a thirty four megabytes .csv in Atom to send me back to Sublime Text. Let this be yet another lesson for me.</p>\n",
+				"content_text": "All it took was trying to open a thirty four megabytes .csv in Atom to send me back to Sublime Text. Let this be yet another lesson for me.\n",
+				"date_published": "2018-10-05T18:41:10-04:00",
+				"url": "https://www.kevrodg.net/2018/10/05/all-it-took.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/10/01/beef-jerky-time.html",
+				
+				"content_html": "<p>“Beef jerky time.”  🎥</p>\n",
+				"content_text": "“Beef jerky time.”  🎥\n",
+				"date_published": "2018-10-01T09:24:39-04:00",
+				"url": "https://www.kevrodg.net/2018/10/01/beef-jerky-time.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/09/25/tried-to-buy.html",
+				
+				"content_html": "<p>Tried to buy <a href=\"https://www.monokai.pro\">Monokai Pro</a>, but got denied by PayPal. Tried to make Sublime Text 3 look nicer and failed. Went back to using <a href=\"https://atom.io\">Atom</a>. I sure do like the built-in GitHub integration.</p>\n",
+				"content_text": "Tried to buy [Monokai Pro](https://www.monokai.pro), but got denied by PayPal. Tried to make Sublime Text 3 look nicer and failed. Went back to using [Atom](https://atom.io). I sure do like the built-in GitHub integration.\n",
+				"date_published": "2018-09-25T15:10:29-04:00",
+				"url": "https://www.kevrodg.net/2018/09/25/tried-to-buy.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/09/24/have-you-decided.html",
+				
+				"content_html": "<p>“Have you decided? Do you want The Good Package, or The Big Gun?” 🎥</p>\n",
+				"content_text": "“Have you decided? Do you want The Good Package, or The Big Gun?” 🎥\n",
+				"date_published": "2018-09-24T14:28:29-04:00",
+				"url": "https://www.kevrodg.net/2018/09/24/have-you-decided.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/09/22/wow-a-on.html",
+				
+				"content_html": "<p>Wow! A :12 on a NY Times mini. That one is going to be tough to beat.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wow! A :12 on a NY Times mini. That one is going to be tough to beat. \n\n<img src=\"uploads/2018/1653f3bdd6.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-09-22T13:09:02-04:00",
+				"url": "https://www.kevrodg.net/2018/09/22/wow-a-on.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/09/12/its-a-new.html",
+				
+				"content_html": "<p>It’s a new personal best! 0:14 on a NYT Crossword Mini.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s a new personal best! 0:14 on a NYT Crossword Mini. \n\n<img src=\"uploads/2018/56522fe5de.jpg\" width=\"600\" height=\"599\" />\n",
+				"date_published": "2018-09-12T17:22:35-04:00",
+				"url": "https://www.kevrodg.net/2018/09/12/its-a-new.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/09/05/heres-a-picture.html",
+				
+				"content_html": "<p>Here’s a picture of my current work setup.</p>\n<ul>\n<li>MacBook Pro 13-inch with Touch Bar</li>\n<li>OWC Thunderbolt 3 Dock</li>\n<li>Dell P2715Q Monitor</li>\n<li>CODE 87-Key Keyboard</li>\n<li>Logitech MX Master 2S Mouse</li>\n<li>Ergotron WorkFit-D Sit-Stand Desk (Walnut)</li>\n</ul>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Here’s a picture of my current work setup. \n\n- MacBook Pro 13-inch with Touch Bar\n- OWC Thunderbolt 3 Dock\n- Dell P2715Q Monitor\n- CODE 87-Key Keyboard\n- Logitech MX Master 2S Mouse\n- Ergotron WorkFit-D Sit-Stand Desk (Walnut)\n\n<img src=\"uploads/2018/fac99dcfc1.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-09-05T12:17:39-04:00",
+				"url": "https://www.kevrodg.net/2018/09/05/heres-a-picture.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/09/02/ive-cancelled-and.html",
+				
+				"content_html": "<p>I’ve cancelled and re-subscribed to a hosted <a href=\"https://micro.blog\">Micro.blog</a> plan a few times now. I leave because I think I can run my own site via <a href=\"https://pages.github.com\">GitHub Pages</a>.  I return because running my own site adds friction to just writing posts.</p>\n",
+				"content_text": "I’ve cancelled and re-subscribed to a hosted [Micro.blog](https://micro.blog) plan a few times now. I leave because I think I can run my own site via [GitHub Pages](https://pages.github.com).  I return because running my own site adds friction to just writing posts.\n",
+				"date_published": "2018-09-02T09:17:52-04:00",
+				"url": "https://www.kevrodg.net/2018/09/02/ive-cancelled-and.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/08/27/i-need-to.html",
+				
+				"content_html": "<p>I need to stop looking at native Gmail apps for macOS. They’re all bad and I end up going back to the web interface.</p>\n",
+				"content_text": "I need to stop looking at native Gmail apps for macOS. They’re all bad and I end up going back to the web interface.\n",
+				"date_published": "2018-08-27T11:48:42-04:00",
+				"url": "https://www.kevrodg.net/2018/08/27/i-need-to.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/08/20/i-made-a.html",
+				
+				"content_html": "<p>I made a promise to my wife that I won’t drive recklessly anymore. That will help me to keep it under control whenever I find myself letting loose.</p>\n",
+				"content_text": "I made a promise to my wife that I won’t drive recklessly anymore. That will help me to keep it under control whenever I find myself letting loose. \n",
+				"date_published": "2018-08-20T18:33:04-04:00",
+				"url": "https://www.kevrodg.net/2018/08/20/i-made-a.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/08/17/why-dont-you.html",
+				
+				"content_html": "<p>“I’ll tell you what then. Why don’t you call me sometime when you have no class?” 🎥</p>\n",
+				"content_text": "“I’ll tell you what then. Why don’t you call me sometime when you have no class?” 🎥\n",
+				"date_published": "2018-08-17T17:41:00-04:00",
+				"url": "https://www.kevrodg.net/2018/08/17/why-dont-you.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/08/15/four-weeks-twenty.html",
+				
+				"content_html": "<p>“Four weeks, twenty papers, that&rsquo;s two dollars…plus tip.”  🎥</p>\n",
+				"content_text": "“Four weeks, twenty papers, that's two dollars…plus tip.”  🎥\n",
+				"date_published": "2018-08-15T12:11:57-04:00",
+				"url": "https://www.kevrodg.net/2018/08/15/four-weeks-twenty.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/08/13/all-balls-itch.html",
+				
+				"content_html": "<p>“All balls itch! It’s a fact!” 🎥</p>\n",
+				"content_text": "“All balls itch! It’s a fact!” 🎥\n",
+				"date_published": "2018-08-13T09:28:16-04:00",
+				"url": "https://www.kevrodg.net/2018/08/13/all-balls-itch.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/08/09/moving-forward-im.html",
+				
+				"content_html": "<p>Moving forward, I‘m going to go with 🎥 for movie quotes.</p>\n",
+				"content_text": "Moving forward, I‘m going to go with 🎥 for movie quotes.\n",
+				"date_published": "2018-08-09T12:34:00-04:00",
+				"url": "https://www.kevrodg.net/2018/08/09/moving-forward-im.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/08/09/or-this-one.html",
+				
+				"content_html": "<p>“Or, this one?”  🎞</p>\n",
+				"content_text": "“Or, this one?”  🎞\n",
+				"date_published": "2018-08-09T12:26:43-04:00",
+				"url": "https://www.kevrodg.net/2018/08/09/or-this-one.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/08/09/if-this-were.html",
+				
+				"content_html": "<p>“If this were a movie quote, which emoji would look more appropriate at the end?” 🎥</p>\n",
+				"content_text": "“If this were a movie quote, which emoji would look more appropriate at the end?” 🎥\n",
+				"date_published": "2018-08-09T12:26:00-04:00",
+				"url": "https://www.kevrodg.net/2018/08/09/if-this-were.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/08/01/thats-none.html",
+				
+				"content_html": "<p>“That&rsquo;s none.” 🎥</p>\n",
+				"content_text": "“That's none.” 🎥\n",
+				"date_published": "2018-08-01T09:42:00-04:00",
+				"url": "https://www.kevrodg.net/2018/08/01/thats-none.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/07/30/id-like-to.html",
+				
+				"content_html": "<p>I&rsquo;d like to use the <a href=\"https://atom.io\">Atom</a> editor, but it stalled on me today when trying to paste some brackets on 640 lines. It&rsquo;s back to <a href=\"https://www.sublimetext.com\">Sublime Text</a> for me.</p>\n",
+				"content_text": "I'd like to use the [Atom](https://atom.io) editor, but it stalled on me today when trying to paste some brackets on 640 lines. It's back to [Sublime Text](https://www.sublimetext.com) for me.\n",
+				"date_published": "2018-07-30T14:14:15-04:00",
+				"url": "https://www.kevrodg.net/2018/07/30/id-like-to.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/07/27/style-guide.html",
+				"title": "Style Guide",
+				"content_html": "<p>Here is a style guide for kevrodg.net. This is a regular paragraph. The <a href=\"http://daringfireball.net/projects/markdown/\">Markdown</a> syntax will make it easier to write blog posts.</p>\n<h2 id=\"header-2\">Header 2</h2>\n<p>This is a paragraph below a level 2 header. Is there enough information here to make a qualitative judgement about this section? Here&rsquo;s a little bit more text. I could type more here, but I think it&rsquo;s enough.</p>\n<h2 id=\"code-needed\">Code Needed</h2>\n<p>I might write a post that has some code in it. That would look like this:</p>\n<p>Typing <code>ifconfig | grep netmask</code> in the CLI will show the IP addresses on a Mac.</p>\n<p>Code blocks will look like this:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-python\" data-lang=\"python\"><span style=\"color:#66d9ef\">def</span> <span style=\"color:#a6e22e\">reverse</span>(text):\n    pos <span style=\"color:#f92672\">=</span> <span style=\"color:#f92672\">-</span><span style=\"color:#ae81ff\">1</span>\n    rev <span style=\"color:#f92672\">=</span> <span style=\"color:#e6db74\">&#34;&#34;</span>\n    <span style=\"color:#66d9ef\">for</span> i <span style=\"color:#f92672\">in</span> text:\n        rev <span style=\"color:#f92672\">=</span> rev <span style=\"color:#f92672\">+</span> text[len(text) <span style=\"color:#f92672\">+</span> pos]\n        pos <span style=\"color:#f92672\">=</span> pos <span style=\"color:#f92672\">-</span><span style=\"color:#ae81ff\">1</span>\nprint rev\n\nreverse(<span style=\"color:#e6db74\">&#34;Python!&#34;</span>)\n</code></pre></div><h2 id=\"blockquotes\">Blockquotes</h2>\n<p>Here is how blockquotes will look:</p>\n<blockquote>\n<p>This is part of the blockquote. This is another part of the blockquote. How is <a href=\"http://micro.blog/\">Micro.blog</a> handling all this?</p>\n</blockquote>\n<p>This is a regular paragraph after a block quote. Nice, right?</p>\n",
+				"content_text": "Here is a style guide for kevrodg.net. This is a regular paragraph. The [Markdown](http://daringfireball.net/projects/markdown/) syntax will make it easier to write blog posts.\n\n## Header 2\n\nThis is a paragraph below a level 2 header. Is there enough information here to make a qualitative judgement about this section? Here's a little bit more text. I could type more here, but I think it's enough.\n\n## Code Needed\n\nI might write a post that has some code in it. That would look like this:\n\nTyping `ifconfig | grep netmask` in the CLI will show the IP addresses on a Mac.\n\nCode blocks will look like this:\n\n```python\ndef reverse(text):\n    pos = -1\n    rev = \"\"\n    for i in text:\n        rev = rev + text[len(text) + pos]\n        pos = pos -1\nprint rev\n\nreverse(\"Python!\")\n```\n\n## Blockquotes\n\nHere is how blockquotes will look:\n\n> This is part of the blockquote. This is another part of the blockquote. How is [Micro.blog](http://micro.blog/) handling all this?\n\nThis is a regular paragraph after a block quote. Nice, right?\n",
+				"date_published": "2018-07-27T12:40:00-04:00",
+				"url": "https://www.kevrodg.net/2018/07/27/style-guide.html",
+				"tags": ["Macro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/07/27/alwaysno-never-forget.html",
+				
+				"content_html": "<p>“Always…no. Never forget to check your references.” 🎥</p>\n",
+				"content_text": "“Always…no. Never forget to check your references.” 🎥\n",
+				"date_published": "2018-07-27T11:03:00-04:00",
+				"url": "https://www.kevrodg.net/2018/07/27/alwaysno-never-forget.html",
+				"tags": ["Movie Quote","Micro"]
+			},
+			{
+				"id": "http://kevrodg.micro.blog/2018/07/26/something-clever.html",
+				
+				"content_html": "<p>Something clever.</p>\n",
+				"content_text": "Something clever.\n",
+				"date_published": "2018-07-26T09:09:12-04:00",
+				"url": "https://www.kevrodg.net/2018/07/26/something-clever.html",
+				"tags": ["Micro"]
+			}
+	]
+}

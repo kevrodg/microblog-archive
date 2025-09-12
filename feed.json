@@ -1,11 +1,20 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Kev Rodgers",
-	"icon": "https://micro.blog/kevrodg/avatar.jpg",
+	"icon": "https://avatars.micro.blog/avatars/2025/25/1068.jpg",
 	"home_page_url": "https://www.kevrodg.net/",
 	"feed_url": "https://www.kevrodg.net/feed.json",
 	"items": [
 		
+			{
+				"id": "http://kevrodg.micro.blog/2025/09/09/to-all-the-companies-sending.html",
+				
+				"content_html": "<p>To all the companies sending 2FA codes by email: stop it.</p>\n",
+				"content_text": "To all the companies sending 2FA codes by email: stop it.\n",
+				"date_published": "2025-09-09T09:24:53-04:00",
+				"url": "https://www.kevrodg.net/2025/09/09/to-all-the-companies-sending.html",
+				"tags": ["Micro"]
+			},
 			{
 				"id": "http://kevrodg.micro.blog/2025/09/08/see-if-youd-stick-to.html",
 				
@@ -117,7 +126,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2025/07/19/i-got-these-speakers-for.html",
 				
-				"content_html": "<p>I got <a href=\"https://uturnaudio.com/products/ethos-powered-speakers\">these speakers</a> for my turntable. They sound great and I don&rsquo;t hear the crackles and pops like when using headphones.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I got <a href=\"https://uturnaudio.com/products/ethos-powered-speakers\">these speakers</a> for my turntable. They sound great and I don&rsquo;t hear the crackles and pops like when using headphones.</p>\n<img src=\"https://cdn.uploads.micro.blog/632/2025/new-speakers.jpeg\" alt=\"A vinyl record player setup with speakers stands on either side.\">\n",
 				"content_text": "I got [these speakers](https://uturnaudio.com/products/ethos-powered-speakers) for my turntable. They sound great and I don't hear the crackles and pops like when using headphones.\n\n<img src=\"https://cdn.uploads.micro.blog/632/2025/new-speakers.jpeg\" alt=\"A vinyl record player setup with speakers stands on either side.\">\n",
 				"date_published": "2025-07-19T09:47:39-04:00",
 				"url": "https://www.kevrodg.net/2025/07/19/i-got-these-speakers-for.html",
@@ -126,8 +135,8 @@
 			{
 				"id": "http://kevrodg.micro.blog/2025/07/17/stopping-for-a-school-bus.html",
 				"title": "Stopping for a School Bus in New Jersey",
-				"content_html": "<p>Most New Jersey drivers know they must stop for a stopped school bus, whether on the same or opposite side of the road. But many don’t realize that if the road is divided by a safety island (or median), they must slow to 10 MPH when approaching from the opposite side. Here’s the relevant section from <a href=\"https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/32308/33327?f=templates&amp;fn=document-frameset.htm&amp;q=&amp;uq=&amp;x=&amp;up=1&amp;force=8237&amp;vid=Publish:10.1048/Enu\">the statute</a>.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<blockquote>\n<p>On highways having dual or multiple roadways separated by safety islands or physical traffic separation installations, the driver of a vehicle on another roadway approaching a school bus … <strong>shall reduce the speed of his vehicle to not more than 10 miles per hour</strong> and shall not resume normal speed until the vehicle has passed the bus and has passed any child who may have alighted therefrom or be about to enter said bus.</p>\n<p>Emphasis added.</p>\n</blockquote>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p><strong>Disclaimer:</strong> This isn’t legal advice. If you’re unsure about the rules, check the official New Jersey statutes or ask the Motor Vehicle Commission.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
-				"content_text": "Most New Jersey drivers know they must stop for a stopped school bus, whether on the same or opposite side of the road. But many don’t realize that if the road is divided by a safety island (or median), they must slow to 10 MPH when approaching from the opposite side. Here’s the relevant section from [the statute](https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/32308/33327?f=templates&fn=document-frameset.htm&q=&uq=&x=&up=1&force=8237&vid=Publish:10.1048/Enu).[^1]\n\n> On highways having dual or multiple roadways separated by safety islands or physical traffic separation installations, the driver of a vehicle on another roadway approaching a school bus … **shall reduce the speed of his vehicle to not more than 10 miles per hour** and shall not resume normal speed until the vehicle has passed the bus and has passed any child who may have alighted therefrom or be about to enter said bus.\n> \n> Emphasis added.\n\n[^1]: **Disclaimer:** This isn’t legal advice. If you’re unsure about the rules, check the official New Jersey statutes or ask the Motor Vehicle Commission.\n",
+				"content_html": "<p>Most New Jersey drivers know they must stop for a stopped school bus, whether on the same or opposite side of the road. But many don’t realize that if the road is divided by a safety island (or median), they must slow to 10 MPH when approaching from the opposite side. Here’s the relevant section from <a href=\"https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/32347/33374?f=templates&amp;fn=default.htm&amp;vid=Publish:10.1048/Enu\">the statute</a>.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<blockquote>\n<p>On highways having dual or multiple roadways separated by safety islands or physical traffic separation installations, the driver of a vehicle on another roadway approaching a school bus … <strong>shall reduce the speed of his vehicle to not more than 10 miles per hour</strong> and shall not resume normal speed until the vehicle has passed the bus and has passed any child who may have alighted therefrom or be about to enter said bus.</p>\n<p>Emphasis added.</p>\n</blockquote>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p><strong>Disclaimer:</strong> This isn’t legal advice. If you’re unsure about the rules, check the official New Jersey statutes or ask the Motor Vehicle Commission.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "Most New Jersey drivers know they must stop for a stopped school bus, whether on the same or opposite side of the road. But many don’t realize that if the road is divided by a safety island (or median), they must slow to 10 MPH when approaching from the opposite side. Here’s the relevant section from [the statute](https://lis.njleg.state.nj.us/nxt/gateway.dll/statutes/1/32347/33374?f=templates&fn=default.htm&vid=Publish:10.1048/Enu).[^1]\n\n> On highways having dual or multiple roadways separated by safety islands or physical traffic separation installations, the driver of a vehicle on another roadway approaching a school bus … **shall reduce the speed of his vehicle to not more than 10 miles per hour** and shall not resume normal speed until the vehicle has passed the bus and has passed any child who may have alighted therefrom or be about to enter said bus.\n> \n> Emphasis added.\n\n[^1]: **Disclaimer:** This isn’t legal advice. If you’re unsure about the rules, check the official New Jersey statutes or ask the Motor Vehicle Commission.\n",
 				"date_published": "2025-07-17T16:29:59-04:00",
 				"url": "https://www.kevrodg.net/2025/07/17/stopping-for-a-school-bus.html",
 				"tags": ["Macro"]
@@ -153,7 +162,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2025/06/29/i-completed-the-day-odd.html",
 				
-				"content_html": "<p>I completed the <a href=\"https://www.drumeo.com/drumshop/30-day-odd-time\">30-Day Odd Time course with Nic Collins</a>. Now I can play in 5/4, 7/8, and 9/8.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I completed the <a href=\"https://www.drumeo.com/drumshop/30-day-odd-time\">30-Day Odd Time course with Nic Collins</a>. Now I can play in 5/4, 7/8, and 9/8.</p>\n<img src=\"https://cdn.uploads.micro.blog/632/2025/f874ed5f18.jpg\" width=\"540\" height=\"600\" alt=\"\">\n",
 				"content_text": "I completed the [30-Day Odd Time course with Nic Collins](https://www.drumeo.com/drumshop/30-day-odd-time). Now I can play in 5/4, 7/8, and 9/8.\n\n<img src=\"https://cdn.uploads.micro.blog/632/2025/f874ed5f18.jpg\" width=\"540\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-29T15:41:49-04:00",
 				"url": "https://www.kevrodg.net/2025/06/29/i-completed-the-day-odd.html",
@@ -225,7 +234,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2025/05/09/today-i-learned-shift-option.html",
 				
-				"content_html": "<p>Today I learned, <!-- raw HTML omitted -->shift<!-- raw HTML omitted --> + <!-- raw HTML omitted -->option<!-- raw HTML omitted --> + <!-- raw HTML omitted -->?<!-- raw HTML omitted --> makes a ¿.</p>\n",
+				"content_html": "<p>Today I learned, <kbd>shift</kbd> + <kbd>option</kbd> + <kbd>?</kbd> makes a ¿.</p>\n",
 				"content_text": "Today I learned, <kbd>shift</kbd> + <kbd>option</kbd> + <kbd>?</kbd> makes a ¿.\n",
 				"date_published": "2025-05-09T16:12:51-04:00",
 				"url": "https://www.kevrodg.net/2025/05/09/today-i-learned-shift-option.html",
@@ -567,7 +576,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2024/11/15/just-added-blast.html",
 				
-				"content_html": "<p>Just added <a href=\"https://www.clutchmerch.com/collections/music/products/blast-tyrant-20th-anniversary-tour-edition\"><em>Blast Tyrant</em> by Clutch</a> to my collection. I love all their albums, but this one is my favorite. 🎵</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Just added <a href=\"https://www.clutchmerch.com/collections/music/products/blast-tyrant-20th-anniversary-tour-edition\"><em>Blast Tyrant</em> by Clutch</a> to my collection. I love all their albums, but this one is my favorite. 🎵</p>\n<img src=\"https://cdn.uploads.micro.blog/632/2024/clutch-blast-tyrant.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated and human edited description: Blast Tyrant by Clutch record with a fantasy-themed cover featuring a dragon-like figure and a “20 Year Anniversary Tour Edition” sticker is placed on a turntable.\">\n",
 				"content_text": "Just added [_Blast Tyrant_ by Clutch](https://www.clutchmerch.com/collections/music/products/blast-tyrant-20th-anniversary-tour-edition) to my collection. I love all their albums, but this one is my favorite. 🎵\n\n<img src=\"https://cdn.uploads.micro.blog/632/2024/clutch-blast-tyrant.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated and human edited description: Blast Tyrant by Clutch record with a fantasy-themed cover featuring a dragon-like figure and a “20 Year Anniversary Tour Edition” sticker is placed on a turntable.\">\n",
 				"date_published": "2024-11-15T20:27:24-04:00",
 				"url": "https://www.kevrodg.net/2024/11/15/just-added-blast.html",
@@ -675,7 +684,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2024/06/24/if-youre-interested.html",
 				
-				"content_html": "<p>If you’re interested in a cruel game, put a mouse next to your computer that isn’t connected to it. Then, count how many times during the day you tried to use it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>If you’re interested in a cruel game, put a mouse next to your computer that isn’t connected to it. Then, count how many times during the day you tried to use it.</p>\n<img src=\"https://cdn.uploads.micro.blog/632/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"A laptop with a visible screen displaying a workspace background is placed on a dark surface beside a red and black wireless mouse.\">\n",
 				"content_text": "If you’re interested in a cruel game, put a mouse next to your computer that isn’t connected to it. Then, count how many times during the day you tried to use it.\n\n<img src=\"https://cdn.uploads.micro.blog/632/2024/image.jpg\" width=\"600\" height=\"450\" alt=\"A laptop with a visible screen displaying a workspace background is placed on a dark surface beside a red and black wireless mouse.\">\n",
 				"date_published": "2024-06-24T14:00:57-04:00",
 				"url": "https://www.kevrodg.net/2024/06/24/if-youre-interested.html",
@@ -693,7 +702,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2024/06/03/got-some-new.html",
 				
-				"content_html": "<p>Got some new vinyl today. 🎵</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Got some new vinyl today. 🎵</p>\n<img src=\"https://cdn.uploads.micro.blog/632/2024/inxs-albums.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A collection of INXS vinyl records is arranged on a table.\">\n",
 				"content_text": "Got some new vinyl today. 🎵\n\n<img src=\"https://cdn.uploads.micro.blog/632/2024/inxs-albums.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A collection of INXS vinyl records is arranged on a table.\">\n",
 				"date_published": "2024-06-03T19:20:20-04:00",
 				"url": "https://www.kevrodg.net/2024/06/03/got-some-new.html",
@@ -1305,7 +1314,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2023/01/11/this-is-my.html",
 				
-				"content_html": "<p>This is my second 2/6 this week.</p>\n<p>Wordle 571 2/6:</p>\n<p>⬛🟩🟨⬛🟩<!-- raw HTML omitted -->\n🟩🟩🟩🟩🟩</p>\n",
+				"content_html": "<p>This is my second 2/6 this week.</p>\n<p>Wordle 571 2/6:</p>\n<p>⬛🟩🟨⬛🟩</br>\n🟩🟩🟩🟩🟩</p>\n",
 				"content_text": "This is my second 2/6 this week.\n\nWordle 571 2/6:\n\n⬛🟩🟨⬛🟩</br>\n🟩🟩🟩🟩🟩\n",
 				"date_published": "2023-01-11T08:09:15-04:00",
 				"url": "https://www.kevrodg.net/2023/01/11/this-is-my.html",
@@ -1521,7 +1530,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2019/12/15/left-the-christmas.html",
 				
-				"content_html": "<p>Left the Christmas tree outside last night, and found a bird’s nest in it this morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Left the Christmas tree outside last night, and found a bird’s nest in it this morning.</p>\n<img src=\"https://cdn.uploads.micro.blog/632/2019/217daae967.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"content_text": "Left the Christmas tree outside last night, and found a bird’s nest in it this morning. \n\n<img src=\"https://cdn.uploads.micro.blog/632/2019/217daae967.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-15T12:08:17-04:00",
 				"url": "https://www.kevrodg.net/2019/12/15/left-the-christmas.html",
@@ -1539,7 +1548,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2019/12/12/120248.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<img src=\"https://cdn.uploads.micro.blog/632/2019/0ae163db97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/632/2019/0ae163db97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-12T13:02:48-04:00",
 				"url": "https://www.kevrodg.net/2019/12/12/120248.html",
@@ -1620,7 +1629,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2019/07/27/my-head-is.html",
 				
-				"content_html": "<p>My head is roundish in this picture of my shadow.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>My head is roundish in this picture of my shadow.</p>\n<img src=\"https://cdn.uploads.micro.blog/632/2019/14a701cf45.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"content_text": "My head is roundish in this picture of my shadow. \n\n<img src=\"https://cdn.uploads.micro.blog/632/2019/14a701cf45.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2019-07-27T20:32:30-04:00",
 				"url": "https://www.kevrodg.net/2019/07/27/my-head-is.html",
@@ -1755,7 +1764,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2018/09/22/wow-a-on.html",
 				
-				"content_html": "<p>Wow! A :12 on a NY Times mini. That one is going to be tough to beat.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Wow! A :12 on a NY Times mini. That one is going to be tough to beat.</p>\n<img src=\"https://cdn.uploads.micro.blog/632/2018/1653f3bdd6.jpg\" width=\"600\" height=\"600\" />\n",
 				"content_text": "Wow! A :12 on a NY Times mini. That one is going to be tough to beat. \n\n<img src=\"https://cdn.uploads.micro.blog/632/2018/1653f3bdd6.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-22T13:09:02-04:00",
 				"url": "https://www.kevrodg.net/2018/09/22/wow-a-on.html",
@@ -1764,7 +1773,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2018/09/12/its-a-new.html",
 				
-				"content_html": "<p>It’s a new personal best! 0:14 on a NYT Crossword Mini.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>It’s a new personal best! 0:14 on a NYT Crossword Mini.</p>\n<img src=\"https://cdn.uploads.micro.blog/632/2018/56522fe5de.jpg\" width=\"600\" height=\"599\" />\n",
 				"content_text": "It’s a new personal best! 0:14 on a NYT Crossword Mini. \n\n<img src=\"https://cdn.uploads.micro.blog/632/2018/56522fe5de.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-09-12T17:22:35-04:00",
 				"url": "https://www.kevrodg.net/2018/09/12/its-a-new.html",
@@ -1773,7 +1782,7 @@
 			{
 				"id": "http://kevrodg.micro.blog/2018/09/05/heres-a-picture.html",
 				
-				"content_html": "<p>Here’s a picture of my current work setup.</p>\n<ul>\n<li>MacBook Pro 13-inch with Touch Bar</li>\n<li>OWC Thunderbolt 3 Dock</li>\n<li>Dell P2715Q Monitor</li>\n<li>CODE 87-Key Keyboard</li>\n<li>Logitech MX Master 2S Mouse</li>\n<li>Ergotron WorkFit-D Sit-Stand Desk (Walnut)</li>\n</ul>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Here’s a picture of my current work setup.</p>\n<ul>\n<li>MacBook Pro 13-inch with Touch Bar</li>\n<li>OWC Thunderbolt 3 Dock</li>\n<li>Dell P2715Q Monitor</li>\n<li>CODE 87-Key Keyboard</li>\n<li>Logitech MX Master 2S Mouse</li>\n<li>Ergotron WorkFit-D Sit-Stand Desk (Walnut)</li>\n</ul>\n<img src=\"https://cdn.uploads.micro.blog/632/2018/fac99dcfc1.jpg\" width=\"600\" height=\"600\" />\n",
 				"content_text": "Here’s a picture of my current work setup. \n\n- MacBook Pro 13-inch with Touch Bar\n- OWC Thunderbolt 3 Dock\n- Dell P2715Q Monitor\n- CODE 87-Key Keyboard\n- Logitech MX Master 2S Mouse\n- Ergotron WorkFit-D Sit-Stand Desk (Walnut)\n\n<img src=\"https://cdn.uploads.micro.blog/632/2018/fac99dcfc1.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-05T12:17:39-04:00",
 				"url": "https://www.kevrodg.net/2018/09/05/heres-a-picture.html",
